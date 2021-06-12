@@ -12,7 +12,7 @@ a tres elementos:
 1. El entorno computacional
 
 Después de asegurar el acceso a esos tres elementos, podemos automatizar la producción de nuestros
-resultados para verificar continuamente que otros pueden reproducir nuestrás gráficas y tablas.
+resultados para verificar continuamente que otros pueden reproducir nuestras gráficas y tablas.
 
 ## Datos crudos
 
@@ -26,6 +26,11 @@ código fuente de manera similar a la que usamos Dropbox para compartir document
 
 ## Entorno computacional
 
-## Automatiza todo
+## Automatización
+
+El acceso a los datos crudos, al código fuente y al entorno computacional, es necesario pero no
+suficiente para asegurar la reproducibilidad. Para verificar continuamente la reproducibilidad de
+nuestros resultados, debemos automatizar su producción. Idealmente, verificaremos de manera
+automática que nuestros resultados sean reproducibles cada vez que hagamos un cambio.
 
 ## Conclusión

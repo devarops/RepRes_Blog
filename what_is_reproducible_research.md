@@ -4,18 +4,19 @@ Reproducible Research es un conjunto de prácticas que adoptamos para que otros 
 resultados de nuestros análisis de datos. La principal ventaja de adoptar estas prácticas es que nos
 facilitan la colaboración con otros investigadores.
 
-Para poder reproducir nuestros resultados primero debemos reproducir tres elementos:
+Para que otros investigadores puedan reproducir nuestros resultados, primero debemos proveer acceso
+a tres elementos:
 
 1. Los datos crudos
 1. El código fuente
 1. El entorno computacional
 
-Después de reproducir esos tres elementos, podemos automatizar la producción de nuestros resultados
-para verificar continuamente que otros pueden reproducir nuestrás gráficas y tablas.
+Después de asegurar el acceso a esos tres elementos, podemos automatizar la producción de nuestros
+resultados para verificar continuamente que otros pueden reproducir nuestrás gráficas y tablas.
 
-## Reproduce los datos crudos
+## Datos crudos
 
-## Reproduce el código fuente
+## Código fuente
 
 La manera más fácil de compartir el código fuente es mediante GitHub. Usamos GitHub para compartir
 código fuente de manera similar a la que usamos Dropbox para compartir documentos.
@@ -23,7 +24,7 @@ código fuente de manera similar a la que usamos Dropbox para compartir document
 > GitHub is a code hosting platform for version control and collaboration. It lets you and others
 > work together on projects from anywhere.
 
-## Reproduce el entorno computacional
+## Entorno computacional
 
 ## Automatiza todo
 

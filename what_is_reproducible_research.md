@@ -17,6 +17,12 @@ para verificar continuamente que otros pueden reproducir nuestrás gráficas y t
 
 ## Reproduce el código fuente
 
+La manera más fácil de compartir el código fuente es mediante GitHub. Usamos GitHub para compartir
+código fuente de manera similar a la que usamos Dropbox para compartir documentos.
+
+> GitHub is a code hosting platform for version control and collaboration. It lets you and others
+> work together on projects from anywhere.
+
 ## Reproduce el entorno computacional
 
 ## Automatiza todo

@@ -55,11 +55,11 @@ automática que nuestros resultados sean reproducibles cada vez que hacemos un c
 ## Conclusión
 
 Reproducible Research nos facilita la colaboración con otros investigadores. Las prácticas de
-reproducble Research incluyen compartir el código fuente, los datos crudos y el entrono
+reproducble Research incluyen compartir el código fuente, los datos crudos y el entorno
 computacional donde producimos los resultados. Además, automatizamos la adquisición, procesamiento y
 análisis de los datos, la exportación de gráficas y tablas y la actualización del reporte técnico.
 Esta automatización nos asegura que otros investigadores pueden reproducir nuestros resultados y que
-podemos colabora con ellos fácilmente.
+podemos colaborar con ellos fácilmente.
 
 ## Referencias
 

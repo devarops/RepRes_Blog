@@ -20,7 +20,7 @@ La manera más fácil de compartir el código fuente es mediante GitHub. Usamos 
 código fuente de manera similar a la que usamos Dropbox para compartir documentos.
 
 > GitHub is a code hosting platform for version control and collaboration. It lets you and others
-> work together on projects from anywhere<sup sup id="1">[1](#github)</sup>.
+> work together on projects from anywhere<sup id="1">[1](#github)</sup>.
 
 El código fuente incluye los scripts para extraer, transformar y cargar los datos, para el análisis
 de los datos, para exportar las gráficas y tablas y para actualizar el reporte técnico.

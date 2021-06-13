@@ -1,7 +1,7 @@
 # What is Reproducible Research?
 
 Reproducible Research es un conjunto de prácticas que adoptamos para que otros puedan reproducir los
-resultados de nuestros análisis de datos. La principal ventaja de adoptar estas prácticas es que nos
+resultados de nuestra investigación. La principal ventaja de adoptar estas prácticas es que nos
 facilitan la colaboración con otros investigadores.
 
 Para que otros investigadores puedan reproducir nuestros resultados, primero debemos proveer acceso
@@ -25,7 +25,7 @@ código fuente de manera similar a la que usamos Dropbox para compartir document
 El código fuente incluye los scripts para extraer, transformar y cargar los datos, para el análisis
 de los datos, para exportar las gráficas y tablas y para actualizar el reporte técnico. También los
 scripts y archivos de configuración para automatizar todo el flujo de trabajo son parte del código
-fuente.
+fuente de nuestra investigación.
 
 ## Datos crudos
 

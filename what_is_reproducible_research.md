@@ -7,14 +7,12 @@ facilitan la colaboración con otros investigadores.
 Para que otros investigadores puedan reproducir nuestros resultados, primero debemos proveer acceso
 a tres elementos:
 
-1. Los datos crudos
 1. El código fuente
+1. Los datos crudos
 1. El entorno computacional
 
 Después de asegurar el acceso a esos tres elementos, podemos automatizar la producción de nuestros
 resultados para verificar continuamente que otros pueden reproducir nuestras gráficas y tablas.
-
-## Datos crudos
 
 ## Código fuente
 
@@ -22,15 +20,28 @@ La manera más fácil de compartir el código fuente es mediante GitHub. Usamos 
 código fuente de manera similar a la que usamos Dropbox para compartir documentos.
 
 > GitHub is a code hosting platform for version control and collaboration. It lets you and others
-> work together on projects from anywhere.
+> work together on projects from anywhere. [1]
+
+El código fuente incluye los scripts para extraer, transformar y cargar los datos, para el análisis
+de los datos, para exportar las gráficas y tablas y para actualizar el reporte técnico.
+
+## Datos crudos
+
+Los datos crudos los compartimos junto con el código, preferentemente como archivos de texto simple.
+Los datos tabulares los guardamos en formato CSV y los metadatos en JSON [2]. 
 
 ## Entorno computacional
 
 ## Automatización
 
-El acceso a los datos crudos, al código fuente y al entorno computacional, es necesario pero no
+El acceso al código fuente, a los datos crudos y al entorno computacional es necesario pero no
 suficiente para asegurar la reproducibilidad. Para verificar continuamente la reproducibilidad de
 nuestros resultados, debemos automatizar su producción. Idealmente, verificaremos de manera
 automática que nuestros resultados sean reproducibles cada vez que hagamos un cambio.
 
 ## Conclusión
+
+## Referencias
+
+[1]: https://guides.github.com/activities/hello-world/#what
+[2]: https://frictionlessdata.io/data-package

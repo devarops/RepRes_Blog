@@ -41,7 +41,9 @@ de la investigación.
 ## Entorno computacional
 
 El entorno donde corremos los análisis de datos lo compartimos junto con el código fuente. El
-formato más popular es `Dokerfile`.
+formato más popular es `Dokerfile`. Un `Dockerfile`<sup id="3">[3](#dockerfile)</sup> es un archivo
+de texto simple que contiene todos los commandos necesarios para ensamblar un contenedor de software
+con el entorno requerido para ejecutar nuestros análisis de datos.
 
 ## Automatización
 
@@ -63,3 +65,4 @@ podemos colabora con ellos fácilmente.
 
 - <a name="github">1️⃣</a> https://guides.github.com/activities/hello-world/#what [⤴️](#1)
 - <a name="datapackage">2️⃣</a> https://frictionlessdata.io/data-package [⤴️](#2)
+- <a name="dockerfile">3️⃣</a> https://docs.docker.com/engine/reference/builder [⤴️](#3)

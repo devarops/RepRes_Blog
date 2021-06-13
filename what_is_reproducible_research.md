@@ -27,11 +27,14 @@ de los datos, para exportar las gráficas y tablas y para actualizar el reporte 
 
 ## Datos crudos
 
-Los datos crudos los compartimos junto con el código, preferentemente como archivos de texto simple.
-Los datos tabulares los guardamos en formato CSV y los metadatos en JSON<sup
+Los datos crudos los compartimos junto con el código fuente, preferentemente como archivos de texto
+simple. Los datos tabulares los guardamos en formato CSV y los metadatos en JSON<sup
 id="2">[2](#datapackage)</sup>. 
 
 ## Entorno computacional
+
+El entorno donde corremos los análisis de datos lo compartimos junto con el código fuente. El
+formato más popular es `Dokerfile`.
 
 ## Automatización
 
@@ -42,8 +45,14 @@ automática que nuestros resultados sean reproducibles cada vez que hagamos un c
 
 ## Conclusión
 
+La adopción de las prácticas de Reproducible Research nos facilita la colaboración con otros
+investigadores. Primero compartimos el código fuente, los datos crudos y el entrono computacional
+donde producimos los resultados. Luego, automatizamos la adquisición, procesamiento y análisis de
+los datos, la exportación de gráficas y tablas y la actualización del reporte técnico. Esta
+automatización implica reproducibilidad, lo nos asegura que otros investigadores pueden reproducir
+nuestros resultados y que podemos colabora con ellos fácilmente.
+
 ## Referencias
 
-
-- <a name="github">1️⃣</a>: https://guides.github.com/activities/hello-world/#what [⤴️](#1)
-- <a name="datapackage">2️⃣</a>: https://frictionlessdata.io/data-package [⤴️](#2)
+- <a name="github">1️⃣</a> https://guides.github.com/activities/hello-world/#what [⤴️](#1)
+- <a name="datapackage">2️⃣</a> https://frictionlessdata.io/data-package [⤴️](#2)

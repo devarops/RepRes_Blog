@@ -41,16 +41,16 @@ formato más popular es `Dokerfile`.
 El acceso al código fuente, a los datos crudos y al entorno computacional es necesario pero no
 suficiente para asegurar la reproducibilidad. Para verificar continuamente la reproducibilidad de
 nuestros resultados, debemos automatizar su producción. Idealmente, verificaremos de manera
-automática que nuestros resultados sean reproducibles cada vez que hagamos un cambio.
+automática que nuestros resultados sean reproducibles cada vez que hacemos un cambio.
 
 ## Conclusión
 
-La adopción de las prácticas de Reproducible Research nos facilita la colaboración con otros
-investigadores. Primero compartimos el código fuente, los datos crudos y el entrono computacional
-donde producimos los resultados. Luego, automatizamos la adquisición, procesamiento y análisis de
-los datos, la exportación de gráficas y tablas y la actualización del reporte técnico. Esta
-automatización implica reproducibilidad, lo nos asegura que otros investigadores pueden reproducir
-nuestros resultados y que podemos colabora con ellos fácilmente.
+Reproducible Research nos facilita la colaboración con otros investigadores. Las prácticas de
+reproducble Research incluyen compartir el código fuente, los datos crudos y el entrono
+computacional donde producimos los resultados. Además, automatizamos la adquisición, procesamiento y
+análisis de los datos, la exportación de gráficas y tablas y la actualización del reporte técnico.
+Esta automatización nos asegura que otros investigadores pueden reproducir nuestros resultados y que
+podemos colabora con ellos fácilmente.
 
 ## Referencias
 

@@ -45,5 +45,5 @@ automática que nuestros resultados sean reproducibles cada vez que hagamos un c
 ## Referencias
 
 
-- <a name="github">1</a>: https://guides.github.com/activities/hello-world/#what [↩](#1)
-- <a name="datapackage">2</a>: https://frictionlessdata.io/data-package [↩](#2)
+- <a name="github">1️⃣</a>: https://guides.github.com/activities/hello-world/#what [⤴️](#1)
+- <a name="datapackage">2️⃣</a>: https://frictionlessdata.io/data-package [⤴️](#2)

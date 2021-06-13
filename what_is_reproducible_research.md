@@ -23,13 +23,20 @@ código fuente de manera similar a la que usamos Dropbox para compartir document
 > work together on projects from anywhere<sup id="1">[1](#github)</sup>.
 
 El código fuente incluye los scripts para extraer, transformar y cargar los datos, para el análisis
-de los datos, para exportar las gráficas y tablas y para actualizar el reporte técnico.
+de los datos, para exportar las gráficas y tablas y para actualizar el reporte técnico. También los
+scripts y archivos de configuración para automatizar todo el flujo de trabajo son parte del código
+fuente.
 
 ## Datos crudos
 
 Los datos crudos los compartimos junto con el código fuente, preferentemente como archivos de texto
 simple. Los datos tabulares los guardamos en formato CSV y los metadatos en JSON<sup
 id="2">[2](#datapackage)</sup>. 
+
+En los casos donde no sea posible consignar los datos en el repositorio del código fuente,
+compartimos los datos usando un repositorio de datos especializado. En estos casos, los scripts que
+usamos para obtener los datos crudos a partir del repositorio de datos son parte del código fuente
+del análisis.
 
 ## Entorno computacional
 

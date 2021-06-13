@@ -20,7 +20,7 @@ La manera más fácil de compartir el código fuente es mediante GitHub. Usamos 
 código fuente de manera similar a la que usamos Dropbox para compartir documentos.
 
 > GitHub is a code hosting platform for version control and collaboration. It lets you and others
-> work together on projects from anywhere. [1]
+> work together on projects from anywhere <sup>[1](#github)</sup>.
 
 El código fuente incluye los scripts para extraer, transformar y cargar los datos, para el análisis
 de los datos, para exportar las gráficas y tablas y para actualizar el reporte técnico.
@@ -28,7 +28,7 @@ de los datos, para exportar las gráficas y tablas y para actualizar el reporte 
 ## Datos crudos
 
 Los datos crudos los compartimos junto con el código, preferentemente como archivos de texto simple.
-Los datos tabulares los guardamos en formato CSV y los metadatos en JSON [2]. 
+Los datos tabulares los guardamos en formato CSV y los metadatos en JSON <sup>[2](#datapackage)</sup>. 
 
 ## Entorno computacional
 
@@ -43,5 +43,6 @@ automática que nuestros resultados sean reproducibles cada vez que hagamos un c
 
 ## Referencias
 
-[1]: https://guides.github.com/activities/hello-world/#what
-[2]: https://frictionlessdata.io/data-package
+
+<a name="github">1</a>: https://guides.github.com/activities/hello-world/#what
+<a name="datapackage">2</a>: https://frictionlessdata.io/data-package

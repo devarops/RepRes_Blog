@@ -22,14 +22,13 @@ código fuente de manera similar a la que usamos Dropbox para compartir document
 > GitHub is a code hosting platform for version control and collaboration. It lets you and others
 > work together on projects from anywhere<sup id="1">[1](#github)</sup>.
 
-El código fuente incluye los scripts para extraer, transformar y cargar los datos, para el análisis
-de los datos, para exportar las gráficas y tablas y para actualizar el reporte técnico. También los
-scripts y archivos de configuración para automatizar todo el flujo de trabajo son parte del código
+El código fuente son los scripts necesarios para actualizar el reporte técnico. Entonces necesitamos el código para exportar las gráficas y tablas. Pero antes, el código para extraer, transformar y cargar los datos con los que generamos las tablas y gráficas. También los
+Para automatizar todo el flujo de trabajo, también los scripts y archivos de configuración  son parte del código
 fuente de nuestra investigación.
 
 ## Datos crudos
 
-Los datos crudos los compartimos junto con el código fuente, preferentemente como archivos de texto
+Compartimos los datos crudos junto con el código fuente, preferentemente como archivos de texto
 simple. Los datos tabulares los guardamos en formato CSV y los metadatos en JSON<sup
 id="2">[2](#datapackage)</sup>. 
 
@@ -56,8 +55,10 @@ automática que nuestros resultados sean reproducibles cada vez que hacemos un c
 
 Reproducible Research nos facilita la colaboración con otros investigadores. Las prácticas de
 reproducble Research incluyen compartir el código fuente, los datos crudos y el entorno
-computacional donde producimos los resultados. Además, automatizamos la adquisición, procesamiento y
-análisis de los datos, la exportación de gráficas y tablas y la actualización del reporte técnico.
+computacional donde producimos los resultados. Además, automatizamos tres etapas:
+- la adquisición, procesamiento y análisis de los datos
+- la exportación de gráficas y tablas 
+- la actualización del reporte técnico
 Esta automatización nos asegura que otros investigadores pueden reproducir nuestros resultados y que
 podemos colaborar con ellos fácilmente.
 

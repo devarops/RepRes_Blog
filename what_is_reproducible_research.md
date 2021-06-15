@@ -24,10 +24,10 @@ código fuente de manera similar a la que usamos Dropbox para compartir document
 
 El código fuente de la investigación incluye los scripts para:
 
-- extraer, transformar y cargar los datos,
-- realizar el análisis de datos,
-- exportar las gráficas y tablas,
-- actualizar el reporte técnico y
+- extraer, transformar y cargar los datos;
+- realizar el análisis de datos;
+- exportar las gráficas y tablas;
+- actualizar el reporte técnico; y
 - automatizar el flujo de trabajo.
 
 También todos los archivos de configuración son parte del código fuente de nuestra investigación.

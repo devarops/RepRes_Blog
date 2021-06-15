@@ -48,7 +48,7 @@ de la investigación.
 
 El entorno donde corremos los análisis de datos lo compartimos junto con el código fuente. El
 formato más popular es `Dockerfile`. Un `Dockerfile`<sup id="3">[3](#dockerfile)</sup> es un archivo
-de texto simple que contiene todos los commandos necesarios para ensamblar un contenedor de software
+de texto simple que contiene todos los comandos necesarios para ensamblar un contenedor de software
 con el entorno requerido para ejecutar nuestros análisis de datos.
 
 ## Automatización

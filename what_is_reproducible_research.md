@@ -40,14 +40,14 @@ simple. Los datos tabulares los guardamos en formato CSV y los metadatos en JSON
 id="2">[2](#datapackage)</sup>.
 
 En los casos donde no sea posible consignar los datos en el repositorio del código fuente,
-compartimos los datos usando un repositorio de datos especializado. En estos casos, los scripts que
-usamos para obtener los datos crudos a partir del repositorio de datos son parte del código fuente
-de la investigación.
+compartimos los datos usando un repositorio de datos especializado<sup id="3">[3](#datos). En estos
+casos, los scripts que usamos para obtener los datos crudos a partir del repositorio de datos son
+parte del código fuente de la investigación.
 
 ## Entorno computacional
 
 El entorno donde corremos los análisis de datos lo compartimos junto con el código fuente. El
-formato más popular es `Dockerfile`. Un `Dockerfile`<sup id="3">[3](#dockerfile)</sup> es un archivo
+formato más popular es `Dockerfile`. Un `Dockerfile`<sup id="4">[4](#dockerfile)</sup> es un archivo
 de texto simple que contiene todos los comandos necesarios para ensamblar un contenedor de software
 con el entorno requerido para ejecutar nuestros análisis de datos.
 
@@ -71,4 +71,5 @@ reproducir nuestros resultados y que podemos colaborar fácilmente con ellos.
 
 - <a name="github">1️⃣</a> https://guides.github.com/activities/hello-world/#what [⤴️](#1)
 - <a name="datapackage">2️⃣</a> https://frictionlessdata.io/data-package [⤴️](#2)
-- <a name="dockerfile">3️⃣</a> https://docs.docker.com/engine/reference/builder [⤴️](#3)
+- <a name="datos">3️⃣</a> https://www.nature.com/sdata/policies/repositories [⤴️](#3)
+- <a name="dockerfile">3️⃣</a> https://docs.docker.com/engine/reference/builder [⤴️](#4)

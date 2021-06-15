@@ -72,4 +72,4 @@ reproducir nuestros resultados y que podemos colaborar fácilmente con ellos.
 - <a name="github">1️⃣</a> https://guides.github.com/activities/hello-world/#what [⤴️](#1)
 - <a name="datapackage">2️⃣</a> https://frictionlessdata.io/data-package [⤴️](#2)
 - <a name="datos">3️⃣</a> https://www.nature.com/sdata/policies/repositories [⤴️](#3)
-- <a name="dockerfile">:four:</a> https://docs.docker.com/engine/reference/builder [⤴️](#4)
+- <a name="dockerfile">4️⃣</a> https://docs.docker.com/engine/reference/builder [⤴️](#4)

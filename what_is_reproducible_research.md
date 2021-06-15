@@ -1,7 +1,7 @@
 # What is Reproducible Research?
 
 Reproducible Research es un conjunto de prácticas que adoptamos para que otros puedan reproducir los
-resultados de nuestra investigación. La principal ventaja de adoptar estas prácticas es que nos
+resultados de nuestra investigación. La ventaja principal de adoptar estas prácticas es que nos
 facilitan la colaboración con otros investigadores.
 
 Para que otros investigadores puedan reproducir nuestros resultados, primero debemos proveer acceso

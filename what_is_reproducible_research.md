@@ -40,7 +40,7 @@ simple. Los datos tabulares los guardamos en formato CSV y los metadatos en JSON
 id="2">[2](#datapackage)</sup>.
 
 En los casos donde no sea posible consignar los datos en el repositorio del código fuente,
-compartimos los datos usando un repositorio de datos especializado<sup id="3">[3](#datos). En estos
+compartimos los datos usando un repositorio de datos especializado<sup id="3">[3](#datos)</sup>. En estos
 casos, los scripts que usamos para obtener los datos crudos a partir del repositorio de datos son
 parte del código fuente de la investigación.
 

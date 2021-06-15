@@ -13,7 +13,7 @@ a tres elementos:
 
 Después de asegurar el acceso a esos tres elementos, lo siguiente es automatizar la producción de
 nuestros resultados. Con la automatización en la producción verificaremos continuamente que otros
-también pueden reproducir nuestros resultados.
+también pueden reproducir nuestras gráficas, tablas y estadísticos.
 
 ## Código fuente
 

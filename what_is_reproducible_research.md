@@ -11,8 +11,9 @@ a tres elementos:
 1. Los datos crudos
 1. El entorno computacional
 
-Después de asegurar el acceso a esos tres elementos, podemos automatizar la producción de nuestros
-resultados para verificar continuamente que otros pueden reproducir nuestras gráficas y tablas.
+Después de asegurar el acceso a esos tres elementos, lo siguiente es automatizar la producción de
+nuestros resultados. Con la automatización en la producción verificaremos continuamente que otros
+pueden reproducir nuestras gráficas y tablas.
 
 ## Código fuente
 

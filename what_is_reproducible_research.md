@@ -22,11 +22,15 @@ código fuente de manera similar a la que usamos Dropbox para compartir document
 > GitHub is a code hosting platform for version control and collaboration. It lets you and others
 > work together on projects from anywhere<sup id="1">[1](#github)</sup>.
 
-El código fuente son los scripts necesarios para actualizar el reporte técnico. Entonces necesitamos
-el código para exportar las gráficas y tablas. Pero antes, el código para extraer, transformar y
-cargar los datos con los que generamos las tablas y gráficas. También los Para automatizar todo el
-flujo de trabajo, también los scripts y archivos de configuración  son parte del código fuente de
-nuestra investigación.
+El código fuente de la investigación incluye los scripts para:
+
+- extraer, transformar y cargar los datos,
+- realizar el análisis de datos,
+- exportar las gráficas y tablas,
+- actualizar el reporte técnico y
+- automatizar el flujo de trabajo.
+
+También todos los archivos de configuración son parte del código fuente de nuestra investigación.
 
 ## Datos crudos
 

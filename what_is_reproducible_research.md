@@ -36,7 +36,7 @@ También todos los archivos de configuración son parte del código fuente de nu
 
 Compartimos los datos crudos junto con el código fuente, preferentemente como archivos de texto
 simple. Los datos tabulares los guardamos en formato CSV y los metadatos en JSON<sup
-id="2">[2](#datapackage)</sup>. 
+id="2">[2](#datapackage)</sup>.
 
 En los casos donde no sea posible consignar los datos en el repositorio del código fuente,
 compartimos los datos usando un repositorio de datos especializado. En estos casos, los scripts que

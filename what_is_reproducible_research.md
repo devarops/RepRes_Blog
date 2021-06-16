@@ -1,8 +1,8 @@
 # What is Reproducible Research?
 
 Reproducible Research is a set of practices that we adopt so that others can reproduce the results
-of our research. The main advantage of adopting these practices is that we facilitate collaboration
-with other researchers.
+of our research. The main advantage of adopting these practices is that they facilitate
+collaboration with other researchers.
 
 In order for other researchers to reproduce our results, we must first provide access to three
 elements:
@@ -12,8 +12,8 @@ elements:
 1. The computing environment
 
 After securing access to those three items, the next thing to do is to automate the production of
-our results. With automation in production we will continually verify that other they can also
-reproduce our graphs, tables and statistics.
+our results. Automating the production of our results we will continually verify that others can
+also reproduce our graphs, tables and statistics.
 
 ## Source code
 
@@ -21,49 +21,49 @@ The easiest way to share source code is through GitHub. We use GitHub to share s
 to how we use Dropbox to share documents.
 
 > GitHub is a code hosting platform for version control and collaboration. It lets you and others
-> work together on projects from anywhere <sup id = "1"> [1] (# github) </sup>.
+> work together on projects from anywhere <sup id = "1">[1](#github)</sup>.
 
-The research source code includes the scripts for:
+The research source code includes the scripts to:
 
 - extract, transform and load the data;
 - perform data analysis;
 - export the graphs and tables;
-- update the technical report; Y
-- automate workflow.
+- update the technical report; and
+- automate the workflow.
 
-Also all configuration files are part of the source code of our research.
+Also, all the configuration files are part of the source code of our research.
 
 ## Raw data
 
-We share the raw data together with the source code, preferably as text files simple. We save
-tabular data in CSV format and metadata in JSON <sup id = "2"> [2] (# datapackage) </sup>.
+We share the raw data together with the source code, preferably as plain text files. We save tabular
+data in CSV format and metadata in JSON <sup id = "2">[2](#datapackage)</sup>.
 
-In cases where it is not possible to consign the data in the source code repository, we share the
-data using a specialized data repository <sup id = "3"> [3] (# data) </sup>. In these cases, the
+In the cases where it is not possible to commit the data in the source code repository, we share the
+raw data using a specialized data repository <sup id = "3">[3](#data)</sup>. In these cases, the
 scripts we use to get the raw data from the data repository are part of the research source code.
 
-## Computational environment
+## Computing environment
 
-The environment where we run the data analysis is shared together with the source code. The Most
-popular format is `Dockerfile`. A `Dockerfile` <sup id =" 4 "> [4] (# dockerfile) </sup> is a file
-plain text containing all the commands needed to assemble a software container with the environment
+We share the environment where we run the data analysis together with the source code. The Most
+popular format is `Dockerfile`. A `Dockerfile` <sup id ="4">[4](#dockerfile)</sup> is a plain text
+file containing all the commands needed to assemble a software container with the environment
 required to run our data analysis.
 
 ## Automation
 
-Access to source code, raw data, and the computational environment is necessary but not necessary.
+Access to source code, raw data, and the computing environment is necessary but not necessary
 sufficient to ensure reproducibility. To continually verify the reproducibility of our results, we
-must automate its production. Ideally, we will verify so automatic that our results are reproducible
-every time we make a change.
+must automate its production. Ideally, we will automatically verify that our results are
+reproducible every time we make a change.
 
 ## Conclution
 
 Reproducible Research makes it easy for us to collaborate with other researchers. The practices of
-Reproducible Research include sharing source code, raw data, and environment computational where we
-produce the results. In addition, we automate the entire workflow: data acquisition, processing and
-analysis; the export of graphs and tables; the update of the technical report. This automation
-assures us that other researchers can reproduce our results and that we can easily collaborate with
-them.
+Reproducible Research include sharing the source code, raw data, and computing environment that we
+used to produce our results. In addition, we automate the entire workflow: data acquisition,
+processing and analysis; the export of graphs and tables; the update of the technical report. This
+automation assures us that other researchers can reproduce our results and that we can easily
+collaborate with them.
 
 ## References
 

@@ -17,8 +17,8 @@ also reproduce our graphs, tables and statistics.
 
 ## Source code
 
-The easiest way to share source code is through GitHub. We use GitHub to share source code similar
-to how we use Dropbox to share documents.
+The easiest way to share source code is through GitHub. We use GitHub to share source code in a
+similar way to how we use Dropbox to share documents.
 
 > GitHub is a code hosting platform for version control and collaboration. It lets you and others
 > work together on projects from anywhere<sup id = "1">[1](#github)</sup>.
@@ -27,8 +27,8 @@ The research source code includes the scripts to:
 
 - extract, transform and load the data;
 - perform data analysis;
-- export the graphs and tables;
-- update the technical report; and
+- export the figures and tables;
+- update the technical report or manuscript; and
 - automate the workflow.
 
 Also, all the configuration files are part of the source code of our research.
@@ -44,24 +44,24 @@ scripts we use to get the raw data from the data repository are part of the rese
 
 ## Computing environment
 
-We share the environment where we run the data analysis together with the source code. The Most
+We share the environment where we run the data analysis together with the source code. The most
 popular format is `Dockerfile`. A `Dockerfile`<sup id ="4">[4](#dockerfile)</sup> is a plain text
 file containing all the commands needed to assemble a software container with the environment
 required to run our data analysis.
 
 ## Automation
 
-Access to source code, raw data, and the computing environment is necessary but not necessary
-sufficient to ensure reproducibility. To continually verify the reproducibility of our results, we
-must automate its production. Ideally, we will automatically verify that our results are
-reproducible every time we make a change.
+Access to the source code, the raw data, and the computing environment is necessary but not enough
+to ensure reproducibility. To continually verify the reproducibility of our results, we must
+automate its production. Ideally, we will automatically verify that our results are reproducible
+every time we make a change.
 
 ## Conclution
 
 Reproducible Research makes it easy for us to collaborate with other researchers. The practices of
 Reproducible Research include sharing the source code, raw data, and computing environment that we
 used to produce our results. In addition, we automate the entire workflow: data acquisition,
-processing and analysis; the export of graphs and tables; the update of the technical report. This
+processing and analysis; the export of figures and tables; the update of the technical report. This
 automation assures us that other researchers can reproduce our results and that we can easily
 collaborate with them.
 

@@ -5,7 +5,7 @@ of our research. The main advantage of adopting these practices is that they fac
 collaboration with other researchers.
 
 In order for other researchers to reproduce our results, we must first provide access to three
-elements:
+elements of our research:
 
 1. The source code
 1. The raw data

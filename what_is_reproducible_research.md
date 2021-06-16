@@ -56,7 +56,7 @@ to ensure reproducibility. To continually verify the reproducibility of our resu
 automate its production. Ideally, we will automatically verify that our results are reproducible
 every time we make a change.
 
-## Conclution
+## Conclusion
 
 Reproducible Research makes it easy for us to collaborate with other researchers. The practices of
 Reproducible Research include sharing the source code, raw data, and computing environment that we

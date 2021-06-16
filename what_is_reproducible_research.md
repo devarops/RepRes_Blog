@@ -1,5 +1,79 @@
 # What is Reproducible Research?
 
+Reproducible Research is a set of practices that we adopt so that others can reproduce the results
+of our research. The main advantage of adopting these practices is that we facilitate collaboration
+with other researchers.
+
+In order for other researchers to reproduce our results, we must first provide access to three
+elements:
+
+1. The source code
+1. The raw data
+1. The computing environment
+
+After securing access to those three items, the next thing to do is to automate the production of
+our results. With automation in production we will continually verify that other they can also
+reproduce our graphs, tables and statistics.
+
+## Source code
+
+The easiest way to share source code is through GitHub. We use GitHub to share source code similar
+to how we use Dropbox to share documents.
+
+> GitHub is a code hosting platform for version control and collaboration. It lets you and others
+> work together on projects from anywhere <sup id = "1"> [1] (# github) </sup>.
+
+The research source code includes the scripts for:
+
+- extract, transform and load the data;
+- perform data analysis;
+- export the graphs and tables;
+- update the technical report; Y
+- automate workflow.
+
+Also all configuration files are part of the source code of our research.
+
+## Raw data
+
+We share the raw data together with the source code, preferably as text files simple. We save
+tabular data in CSV format and metadata in JSON <sup id = "2"> [2] (# datapackage) </sup>.
+
+In cases where it is not possible to consign the data in the source code repository, we share the
+data using a specialized data repository <sup id = "3"> [3] (# data) </sup>. In these cases, the
+scripts we use to get the raw data from the data repository are part of the research source code.
+
+## Computational environment
+
+The environment where we run the data analysis is shared together with the source code. The Most
+popular format is `Dockerfile`. A `Dockerfile` <sup id =" 4 "> [4] (# dockerfile) </sup> is a file
+plain text containing all the commands needed to assemble a software container with the environment
+required to run our data analysis.
+
+## Automation
+
+Access to source code, raw data, and the computational environment is necessary but not necessary.
+sufficient to ensure reproducibility. To continually verify the reproducibility of our results, we
+must automate its production. Ideally, we will verify so automatic that our results are reproducible
+every time we make a change.
+
+## Conclution
+
+Reproducible Research makes it easy for us to collaborate with other researchers. The practices of
+Reproducible Research include sharing source code, raw data, and environment computational where we
+produce the results. In addition, we automate the entire workflow: data acquisition, processing and
+analysis; the export of graphs and tables; the update of the technical report. This automation
+assures us that other researchers can reproduce our results and that we can easily collaborate with
+them.
+
+## References
+
+- <a name="github">1️⃣</a> https://guides.github.com/activities/hello-world/#what [⤴️](#1)
+- <a name="datapackage">2️⃣</a> https://frictionlessdata.io/data-package [⤴️](#2)
+- <a name="datos">3️⃣</a> https://www.nature.com/sdata/policies/repositories [⤴️](#3)
+- <a name="dockerfile">4️⃣</a> https://docs.docker.com/engine/reference/builder [⤴️](#4)
+
+---
+
 Reproducible Research es un conjunto de prácticas que adoptamos para que otros puedan reproducir los
 resultados de nuestra investigación. La ventaja principal de adoptar estas prácticas es que nos
 facilitan la colaboración con otros investigadores.
@@ -40,9 +114,9 @@ simple. Los datos tabulares los guardamos en formato CSV y los metadatos en JSON
 id="2">[2](#datapackage)</sup>.
 
 En los casos donde no sea posible consignar los datos en el repositorio del código fuente,
-compartimos los datos usando un repositorio de datos especializado<sup id="3">[3](#datos)</sup>. En estos
-casos, los scripts que usamos para obtener los datos crudos a partir del repositorio de datos son
-parte del código fuente de la investigación.
+compartimos los datos usando un repositorio de datos especializado<sup id="3">[3](#datos)</sup>. En
+estos casos, los scripts que usamos para obtener los datos crudos a partir del repositorio de datos
+son parte del código fuente de la investigación.
 
 ## Entorno computacional
 
@@ -66,10 +140,3 @@ computacional donde producimos los resultados. Además, automatizamos todo el fl
 adquisición, procesamiento y análisis de los datos; la exportación de gráficas y tablas; la
 actualización del reporte técnico. Esta automatización nos asegura que otros investigadores pueden
 reproducir nuestros resultados y que podemos colaborar fácilmente con ellos.
-
-## Referencias
-
-- <a name="github">1️⃣</a> https://guides.github.com/activities/hello-world/#what [⤴️](#1)
-- <a name="datapackage">2️⃣</a> https://frictionlessdata.io/data-package [⤴️](#2)
-- <a name="datos">3️⃣</a> https://www.nature.com/sdata/policies/repositories [⤴️](#3)
-- <a name="dockerfile">4️⃣</a> https://docs.docker.com/engine/reference/builder [⤴️](#4)

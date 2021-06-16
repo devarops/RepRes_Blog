@@ -21,7 +21,7 @@ The easiest way to share source code is through GitHub. We use GitHub to share s
 to how we use Dropbox to share documents.
 
 > GitHub is a code hosting platform for version control and collaboration. It lets you and others
-> work together on projects from anywhere <sup id = "1">[1](#github)</sup>.
+> work together on projects from anywhere<sup id = "1">[1](#github)</sup>.
 
 The research source code includes the scripts to:
 
@@ -36,16 +36,16 @@ Also, all the configuration files are part of the source code of our research.
 ## Raw data
 
 We share the raw data together with the source code, preferably as plain text files. We save tabular
-data in CSV format and metadata in JSON <sup id = "2">[2](#datapackage)</sup>.
+data in CSV format and metadata in JSON<sup id = "2">[2](#datapackage)</sup>.
 
 In the cases where it is not possible to commit the data in the source code repository, we share the
-raw data using a specialized data repository <sup id = "3">[3](#data)</sup>. In these cases, the
+raw data using a specialized data repository<sup id = "3">[3](#data)</sup>. In these cases, the
 scripts we use to get the raw data from the data repository are part of the research source code.
 
 ## Computing environment
 
 We share the environment where we run the data analysis together with the source code. The Most
-popular format is `Dockerfile`. A `Dockerfile` <sup id ="4">[4](#dockerfile)</sup> is a plain text
+popular format is `Dockerfile`. A `Dockerfile`<sup id ="4">[4](#dockerfile)</sup> is a plain text
 file containing all the commands needed to assemble a software container with the environment
 required to run our data analysis.
 

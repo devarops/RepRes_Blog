@@ -39,7 +39,7 @@ We share the raw data together with the source code, preferably as plain text fi
 data in CSV format and metadata in JSON<sup id = "2">[2](#datapackage)</sup>.
 
 In the cases where it is not possible to commit the data in the source code repository, we share the
-raw data using a specialized data repository<sup id = "3">[3](#data)</sup>. In these cases, the
+raw data using a specialized data repository<sup id = "3">[3](#data-repos)</sup>. In these cases, the
 scripts we use to get the raw data from the data repository are part of the research source code.
 
 ## Computing environment
@@ -69,7 +69,7 @@ collaborate with them.
 
 - <a name="github">1️⃣</a> https://guides.github.com/activities/hello-world/#what [⤴️](#1)
 - <a name="datapackage">2️⃣</a> https://frictionlessdata.io/data-package [⤴️](#2)
-- <a name="datos">3️⃣</a> https://www.nature.com/sdata/policies/repositories [⤴️](#3)
+- <a name="data-repos">3️⃣</a> https://www.nature.com/sdata/policies/repositories [⤴️](#3)
 - <a name="dockerfile">4️⃣</a> https://docs.docker.com/engine/reference/builder [⤴️](#4)
 
 ---

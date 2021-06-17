@@ -39,15 +39,16 @@ We share the raw data together with the source code, preferably as plain text fi
 data in CSV format and metadata in JSON<sup id = "2">[2](#datapackage)</sup>.
 
 In the cases where it is not possible to commit the data in the source code repository, we share the
-raw data using a specialized data repository<sup id = "3">[3](#data-repos)</sup>. In these cases, the
-scripts we use to get the raw data from the data repository are part of the research source code.
+raw data using a specialized data repository<sup id = "3">[3](#data-repos)</sup>. In these cases,
+the scripts we use to get the raw data from the data repository are part of the research source
+code.
 
 ## Computing environment
 
 We share the environment where we run the data analysis together with the source code. The most
 popular format is `Dockerfile`. A `Dockerfile`<sup id ="4">[4](#dockerfile)</sup> is a plain text
-file containing all the commands needed to assemble a software container with the required environment
-to run our data analysis.
+file containing all the commands needed to assemble a software container with the required
+environment to run our data analysis.
 
 ## Automation
 

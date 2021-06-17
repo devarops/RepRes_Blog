@@ -7,12 +7,12 @@ collaboration with other researchers.
 In order for other researchers to reproduce our results, we must first provide access to three
 elements of our research:
 
-1. The source code
-1. The raw data
-1. The computing environment
+1. the source code,
+1. the raw data, and
+1. the computing environment.
 
 After securing access to those three items, the next thing to do is to automate the production of
-our results. Automating the production of our results we will continually verify that others can
+our results. Automating the production of our results we can continually verify that others can
 also reproduce our graphs, tables and statistics.
 
 ## Source code

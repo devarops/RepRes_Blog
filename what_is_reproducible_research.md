@@ -46,8 +46,8 @@ scripts we use to get the raw data from the data repository are part of the rese
 
 We share the environment where we run the data analysis together with the source code. The most
 popular format is `Dockerfile`. A `Dockerfile`<sup id ="4">[4](#dockerfile)</sup> is a plain text
-file containing all the commands needed to assemble a software container with the environment
-required to run our data analysis.
+file containing all the commands needed to assemble a software container with the required environment
+to run our data analysis.
 
 ## Automation
 

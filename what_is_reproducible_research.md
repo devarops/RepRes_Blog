@@ -12,8 +12,8 @@ elements of our research:
 1. the computing environment.
 
 After securing access to those three items, the next thing to do is to automate the production of
-our results. Automating the production of our results we can continually verify that others can
-also reproduce our graphs, tables and statistics.
+our results. Automating the production of our results we can continually verify that we and [also]
+others can reproduce our graphs, tables and statistics.
 
 ## Source code
 

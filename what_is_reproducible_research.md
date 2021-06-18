@@ -58,12 +58,10 @@ a change is made.
 
 ## Conclusion
 
-Reproducible Research makes it easy for us to collaborate with other researchers. The practices of
-Reproducible Research include sharing the source code, raw data, and computing environment that we
-used to produce our results. In addition, we automate the entire workflow: data acquisition,
-processing and analysis; the export of figures and tables; the update of the technical report. This
-automation assures us that other researchers can reproduce our results and that we can easily
-collaborate with them.
+Reproducible Research is more than just reproducing results. The true value of 
+Reproducible Research is collaboration. Simulataneoulsy adopting automation and
+reproducible research practices will allow you and your collegues to advance quickly 
+through every stage of the research process, from the raw data to the final draft. 
 
 ## References
 

@@ -44,10 +44,10 @@ code.
 
 ## Computing environment
 
-The environment where you run the data analysis is shared with the source code. The most
+The environment in which you run the data analysis is shared with the source code. The most
 popular format is `Dockerfile`. A `Dockerfile`<sup id ="4">[4](#dockerfile)</sup> is a plain text
-file containing all the commands needed to assemble a software container with the required
-environment to run our data analysis. 
+file that contains all the commands needed to assemble a software container with the required
+environment to run the data analysis. 
 
 ## Automation
 

@@ -22,15 +22,15 @@ The easiest way to share source code is through GitHub. It's similar to Dropbox.
 > GitHub is a code hosting platform for version control and collaboration. It lets you and others
 > work together on projects from anywhere<sup id = "1">[1](#github)</sup>.
 
-The research source code includes the scripts to:
+The source code includes the scripts to:
 
-- extract, transform and load the data;
+- extract, transform, and load the data;
 - perform data analysis;
-- export the figures and tables;
-- update the technical report or manuscript; and
+- export figures and tables;
+- update the report or manuscript; and
 - automate the workflow.
 
-Also, all the configuration files are part of the source code of our research.
+All of the configuration files are also part of the source code.
 
 ## Raw data
 

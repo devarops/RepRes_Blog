@@ -52,9 +52,9 @@ environment to run the data analysis.
 ## Automation
 
 Access to the source code, the raw data, and the computing environment is necessary but not enough
-to ensure reproducibility. To continually verify the reproducibility of our results, we must
-automate its production. Ideally, we will automatically verify that our results are reproducible
-every time we make a change.
+to ensure reproducibility. To continually verify the reproducibility of a result, its production
+must be automated. Ideally, automatic verification ensures that the result is reproducible each time
+a change is made.
 
 ## Conclusion
 

@@ -1,24 +1,23 @@
 # What is Reproducible Research?
 
-Reproducible Research is a set of practices that we adopt so that others can reproduce the results
-of our research. The main advantage of adopting these practices is that they facilitate
+Reproducible Research is a set of practices that ensure others can reproduce the results
+of your research. The main advantage of adopting these practices is to facilitate
 collaboration with other researchers.
 
-In order for other researchers to reproduce our results, we must first provide access to three
-elements of our research:
+In order for other researchers to reproduce your results, you must first grant access to three
+elements of your research:
 
 1. the source code,
-1. the raw data, and
-1. the computing environment.
+2. the raw data, and
+3. the computing environment.
 
-After securing access to those three items, the next thing to do is to automate the production of
-our results. Automating the production of our results we can continually verify that we and [also]
-others can reproduce our graphs, tables and statistics.
+After granting access to these three elements, you then automate the production of
+your results. By automating the production of your results, you can continually verify that
+others are able to reproduce your graphs, tables, and statistics.
 
 ## Source code
 
-The easiest way to share source code is through GitHub. We use GitHub to share source code in a
-similar way that we use Dropbox to share documents.
+The easiest way to share source code is through GitHub. It's similar to Dropbox.
 
 > GitHub is a code hosting platform for version control and collaboration. It lets you and others
 > work together on projects from anywhere<sup id = "1">[1](#github)</sup>.

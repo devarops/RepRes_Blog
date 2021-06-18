@@ -44,10 +44,10 @@ code.
 
 ## Computing environment
 
-We share the environment where we run the data analysis together with the source code. The most
+The environment where you run the data analysis is shared with the source code. The most
 popular format is `Dockerfile`. A `Dockerfile`<sup id ="4">[4](#dockerfile)</sup> is a plain text
 file containing all the commands needed to assemble a software container with the required
-environment to run our data analysis.
+environment to run our data analysis. 
 
 ## Automation
 
@@ -71,7 +71,7 @@ collaborate with them.
 - <a name="datapackage">2️⃣</a> https://frictionlessdata.io/data-package [⤴️](#2)
 - <a name="data-repos">3️⃣</a> https://www.nature.com/sdata/policies/repositories [⤴️](#3)
 - <a name="dockerfile">4️⃣</a> https://docs.docker.com/engine/reference/builder [⤴️](#4)
-
+ 
 ---
 
 Reproducible Research es un conjunto de prácticas que adoptamos para que otros puedan reproducir los

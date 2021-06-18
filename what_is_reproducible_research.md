@@ -39,7 +39,7 @@ raw data, although tabular data may be saved in CSV format and metadata in JSON<
 
 When it is not possible to commit the data in the source code repository, the
 raw data are shared using a specialized data repository<sup id = "3">[3](#data-repos)</sup>. In these cases,
-the scripts that get the raw data from the data repository are part of the source
+the scripts that download the raw data from the data repository are part of the source
 code.
 
 ## Computing environment

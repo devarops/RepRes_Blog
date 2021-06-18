@@ -34,11 +34,11 @@ All of the configuration files are also part of the source code.
 
 ## Raw data
 
-You share your raw data along with the source code. Plain text files are generally best for
+Raw data are shared along with the source code. Plain text files are generally best for
 raw data, although tabular data may be saved in CSV format and metadata in JSON<sup id = "2">[2](#datapackage)</sup>.
 
 When it is not possible to commit the data in the source code repository, the
-raw data is shared using a specialized data repository<sup id = "3">[3](#data-repos)</sup>. In these cases,
+raw data are shared using a specialized data repository<sup id = "3">[3](#data-repos)</sup>. In these cases,
 the scripts that get the raw data from the data repository are part of the source
 code.
 

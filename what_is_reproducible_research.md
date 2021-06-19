@@ -27,7 +27,7 @@ The source code includes the scripts to:
 - extract, transform, and load the data;
 - perform data analysis;
 - export figures and tables;
-- update the report or manuscript; and
+- update the manuscript; and
 - automate the workflow.
 
 All of the configuration files are also part of the source code.

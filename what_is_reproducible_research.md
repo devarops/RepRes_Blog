@@ -59,7 +59,7 @@ a change is made.
 ## Conclusion
 
 Reproducible Research is more than just reproducing results. The true value of 
-Reproducible Research is collaboration. Simulataneoulsy adopting automation and
+Reproducible Research is collaboration. Adopting
 reproducible research practices will allow you and your collegues to advance quickly 
 through every stage of the research process, from the raw data to the final draft. 
 

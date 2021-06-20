@@ -1,20 +1,20 @@
-La producción de tus resultados debe ser una tarea absurdamente simple. Cuando los datos cambien,
-volver a generar los resultados, los ajustes, las gráficas e integrar todo en un reporte lo debmos
-de poder hacer con una intrucción simple.
+La producción de tus resultados debe ser una tarea absurdamente simple. Así, con una instrucción
+simple volveremos a generar los resultados, los ajustes, las gráficas e integrar todo en un reporte,
+cunado los datos cambien. 
 
 ## Un ejemplo sencillo
 Supongamos que recibimos un reporte del ajuste a una recta. Los resultados no son los esperados.
 ¿Cuál es la fuente de este error?
 
-## ¿Cuáles son los datos?
+### Los datos
 Pedimos los datos. Una vez que los tenemos revisamos que las columnas tengan los correctos.
 Revisamos que las unidades tengan sentido y que la magnitud sean creíbles.
 
-## ¿Cómo analizamos los datos?
+### El análisis de los datos
 Pedimos el análisis de los datos. Vemos los parámetros de la regresión. Hacemos simulaciones.
 Revisamos que la magnitud de los parámetros no sean exagerados. 
 
-## ¿Cómo realizamos la gráfica?
+### La gráfica
 Pedimos la gráfica. Revisamos que los puntos graficados correspondan a los datos. Revisamos que la
 linea ajustados corresponda al modelo ajustado. Y volvemos a integrar el reporte.
 

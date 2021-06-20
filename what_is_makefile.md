@@ -1,6 +1,10 @@
-Supongamos que recibimos un reporte acerca de caída libre. Notamos que la gráfica de distancia
-contra tiempo es una línea recta. Pero tú esperábamos ver un movimiento uniformemente acelerado, con
-aceleración igual 9.81 m*s^{-2}. ¿Cuál es la fuente de este error?
+La producción de tus resultados debe ser una tarea absurdamente simple. Cuando los datos cambien,
+volver a generar los resultados, los ajustes, las gráficas e integrar todo en un reporte lo debmos
+de poder hacer con una intrucción simple.
+
+## Un ejemplo sencillo
+Supongamos que recibimos un reporte del ajuste a una recta. Los resultados no son los esperados.
+¿Cuál es la fuente de este error?
 
 ## ¿Cuáles son los datos?
 Pedimos los datos. Una vez que los tenemos revisamos que las columnas tengan los correctos.

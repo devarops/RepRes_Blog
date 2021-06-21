@@ -9,7 +9,7 @@ Supón que recibes un reporte del ajuste a una recta. Los resultados no son los 
 ### Algunas posibles fuentes de error
 Los datos podrían tener las unidades incorrectas o magnitudes sin sentido. Tal vez, la elección del
 modelo ajustado no fue adecuado. Posiblemente, los puntos graficados no corresponden a los datos o
-los parámetros de la línea no corrresponden a los encontrados en el ajuste. Tal vez todo lo anterior
+los parámetros de la línea no corresponden a los encontrados en el ajuste. Tal vez todo lo anterior
 es correcto, pero no actualizamos el reporte.
 
 ### Problemas al articular el reporte

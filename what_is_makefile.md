@@ -4,20 +4,20 @@ e integrar todo en un reporte. Esto es fundamental para una investigación repro
 
 ## Un ejemplo sencillo
 Podrías escribir las instrucciones para volver a generar las componentes del reporte en el archivo
-README: De dónde descargar los datos; cuáles códigos correr y en cuál orden; cómo copiar los
+README: de dónde descargar los datos; cuáles códigos correr y en cuál orden; cómo copiar los
 resultados de los pasos anteriores en nuevos archivos; qué partes de código debes de comentar para
 obtener el resto de las gráficas; y finalmente, recordar cuáles tablas y cuáles gráficas son las
 únicas que aparecerán en el reporte. Después de unas semanas estás instrucciones podrían no ser tan
 claras o incluso algunas de ellas obsoletas. Por un momento ponte en el papel de tus colaboradores.
 
-Supón que recibes un puño de programas que debes de correr en algún orden particular. Del conjunto
-total de resultados parciales, algunos los usarás para generar nuevos resultados. Alguna
-instrucción es obsoleta, pues los archivos ya no se llaman como antes. Finalmente, ves los
-resultados y no son los esperados. ¿Cuál es la fuente de este error?
+Supón que recibes un puño de programas que debes de correr en algún orden particular. Algunos de los
+resultados parciales los usarás para generar nuevos resultados. Alguna instrucción es obsoleta, pues
+los archivos ya no se llaman como antes. Finalmente, ves los resultados y no son los esperados.
+¿Cuál es la fuente de este error?
 
 ### Algunas posibles fuentes de error
 Los datos podrían tener las unidades incorrectas o magnitudes sin sentido. Tal vez, la elección del
-modelo ajustado no fue adecuado. Posiblemente, los puntos graficados no corresponden a los datos o
+modelo ajustado no fue adecuada. Posiblemente, los puntos graficados no corresponden a los datos o
 los parámetros de la línea no corresponden a los encontrados en el ajuste. Tal vez todo lo anterior
 es correcto, pero olvidaste actualizar los resultados en el reporte.
 
@@ -33,17 +33,15 @@ componentes del reporte deben ser sencillas. El orden para llevarlas a cabo no d
 de error.
 
 ## La solución
-[`make`](https://www.gnu.org/software/make/) es una herramienta para controlar el proceso de la
-generación del reporte ([aquí un tutorial amigable](https://makefiletutorial.com/). Tu escribes los
-objetivos (datos, ajustes, gráficas o reporte) y sus dependencias. `make` sabrá cuáles deben de ser
-generadas nuevamente y cuáles no.
+[GNU Make](https://en.wikipedia.org/wiki/Make_(software)) es una herramienta para controlar el
+proceso de la generación del reporte. Tu escribes los objetivos (datos, ajustes, gráficas o reporte)
+y sus dependencias. Make sabrá cuáles deben de ser generadas nuevamente y cuáles no.
 
 Si actualizas el código encargado de hacer el análisis, no es necesario descarga nuevamente los
 datos. Si los únicos cambios son en el reporte, no será necesario generar nuevamente la gráfica y
 volver ajustar el modelo.
 
 # Conclusión
-Puedes usar `make` como una forma para coordinar la producción de un reporte. `make` sabe cómo
-manejar la propagación de las dependencias y solo generará los resultados involucrados por los
-cambios nuevos que introduces. `make` es una herramienta fundamental para la investigación
-reproducible.
+Puedes usar Make como una forma para coordinar la producción de un reporte. Make sabe cómo manejar
+la propagación de las dependencias y solo generará los resultados involucrados por los cambios
+nuevos que introduces. Make es una herramienta fundamental para la investigación reproducible.

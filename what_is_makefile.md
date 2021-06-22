@@ -3,8 +3,17 @@ los datos cambien, con una instrucción volverás a generar los resultados, los 
 e integrar todo en un reporte. Esto es fundamental para una investigación reproducible.
 
 ## Un ejemplo sencillo
-Supón que recibes un reporte del ajuste a una recta. Los resultados no son los esperados.
-¿Cuál es la fuente de este error?
+Podrías escribir las instrucciones para volver a generar las componentes del reporte en el readme.
+De dónde descargar los datos. Cuáles códigos correr y en cuál orden. Cómo copiar los resultados de
+los pasos anteriores en nuevos archivos. Qué partes de código debes de comentar para obtener el
+resto de las gráficas. Y finalmente, recordar cuáles tablas y cuáles gráficas son las únicas que
+aparecerán en el reporte. Después de unas semanas estás instrucciones podrían no ser tan claras o
+incluso algunas de ellas obsoletas. Por un momento ponte en el papel de tus colaboradores.
+
+Supón que recibes un puño de programas que debes de correr en algún orden particular. Del conjunto
+total de resultados parciales, algunos los usarás para generar nuevos resultados. Alguna
+instrucción es obsoleta, pues los archivos ya no se llaman como antes. Finalmente, ves los
+resultados y no son los esperados. ¿Cuál es la fuente de este error?
 
 ### Algunas posibles fuentes de error
 Los datos podrían tener las unidades incorrectas o magnitudes sin sentido. Tal vez, la elección del
@@ -13,11 +22,11 @@ los parámetros de la línea no corresponden a los encontrados en el ajuste. Tal
 es correcto, pero olvidaste actualizar los resultados en el reporte.
 
 ### Problemas al articular el reporte
-Hasta un ejemplo tan sencillo como el anterior tiene varias posibles fuentes de error. El proceso
-para generar el reporte es claro: obtienes los datos, ajustas el modelo, generas la gráfica e
-integras el reporte. Además, dependen unos de otros. Por ejemplo, la gŕafica necesita de los datos y
-del ajuste del modelo. Podrías generar las gráficas con los datos viejos y el modelo correcto o
-viceversa.
+Hasta un ejemplo tan sencillo como ajustar una recta tiene varias posibles fuentes de error. En
+general, el proceso para generar el reporte es claro: obtienes los datos, ajustas el modelo, generas
+la gráfica e integras el reporte. Cada uno de estos pasos pueden tener dependencias unos de otros.
+Por ejemplo, la gŕafica necesita de los datos y del ajuste del modelo. Podrías generar las gráficas
+con los datos viejos y el modelo correcto o viceversa.
 
 También las instrucciones para generar cada uno de los componentes del reporte deben ser sencillas.
 El orden para llevarlas a cabo no debe ser otra fuente de error.

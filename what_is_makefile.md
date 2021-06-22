@@ -3,12 +3,12 @@ los datos cambien, con una instrucción volverás a generar los resultados, los 
 e integrar todo en un reporte. Esto es fundamental para una investigación reproducible.
 
 ## Un ejemplo sencillo
-Podrías escribir las instrucciones para volver a generar las componentes del reporte en el readme.
-De dónde descargar los datos. Cuáles códigos correr y en cuál orden. Cómo copiar los resultados de
-los pasos anteriores en nuevos archivos. Qué partes de código debes de comentar para obtener el
-resto de las gráficas. Y finalmente, recordar cuáles tablas y cuáles gráficas son las únicas que
-aparecerán en el reporte. Después de unas semanas estás instrucciones podrían no ser tan claras o
-incluso algunas de ellas obsoletas. Por un momento ponte en el papel de tus colaboradores.
+Podrías escribir las instrucciones para volver a generar las componentes del reporte en el archivo
+README: De dónde descargar los datos; cuáles códigos correr y en cuál orden; cómo copiar los
+resultados de los pasos anteriores en nuevos archivos; qué partes de código debes de comentar para
+obtener el resto de las gráficas; y finalmente, recordar cuáles tablas y cuáles gráficas son las
+únicas que aparecerán en el reporte. Después de unas semanas estás instrucciones podrían no ser tan
+claras o incluso algunas de ellas obsoletas. Por un momento ponte en el papel de tus colaboradores.
 
 Supón que recibes un puño de programas que debes de correr en algún orden particular. Del conjunto
 total de resultados parciales, algunos los usarás para generar nuevos resultados. Alguna

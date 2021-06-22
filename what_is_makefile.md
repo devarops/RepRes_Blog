@@ -1,3 +1,4 @@
+# Make your manuscipts with Make
 La producción de tus resultados debería convertirse en una tarea completamente trivial. Así, cuando
 los datos cambien, con una instrucción volverás a generar los resultados, los ajustes, las gráficas
 e integrar todo en un reporte. Esto es fundamental para una investigación reproducible.

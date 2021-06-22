@@ -10,10 +10,10 @@ Supón que recibes un reporte del ajuste a una recta. Los resultados no son los 
 Los datos podrían tener las unidades incorrectas o magnitudes sin sentido. Tal vez, la elección del
 modelo ajustado no fue adecuado. Posiblemente, los puntos graficados no corresponden a los datos o
 los parámetros de la línea no corresponden a los encontrados en el ajuste. Tal vez todo lo anterior
-es correcto, pero no olvidaste actualizar los resultados en el reporte.
+es correcto, pero olvidaste actualizar los resultados en el reporte.
 
 ### Problemas al articular el reporte
-Hasta un ejemplo tan sencillo como el anterior tiene varias fuentes de error. El proceso para
+Hasta un ejemplo tan sencillo como el anterior tiene varias posibles fuentes de error. El proceso para
 generar el reporte es claro: obtienes los datos, ajustas el modelo, generas la gráfica e integras el
 reporte. Además, dependen unos de otros. Por ejemplo, la gŕafica necesita de los datos y del
 ajuste del modelo. Podrías generar las gráficas con los datos viejos y el modelo correcto o
@@ -23,7 +23,8 @@ También las instrucciones para generar cada uno de los componentes del reporte 
 El orden para llevarlas a cabo no debe ser otra fuente de error.
 
 ## La solución
-[`make`](https://www.gnu.org/software/make/) es una herramienta para controlar el proceso de la generación del reporte ([aquí un tutorial amigable](https://makefiletutorial.com/). Tu escribes los
+[`make`](https://www.gnu.org/software/make/) es una herramienta para controlar el proceso de la
+generación del reporte ([aquí un tutorial amigable](https://makefiletutorial.com/). Tu escribes los
 objetivos (datos, ajustes, gráficas o reporte) y sus dependencias. `make` sabrá cuáles deben de ser
 generadas nuevamente y cuáles no.
 
@@ -32,5 +33,6 @@ datos. Si los únicos cambios son en el reporte, no será necesario generar nuev
 volver ajustar el modelo.
 
 # Conclusión
-Puedes usar `make` como una forma para coordinar la producción de un reporte. Sabe cómo atender la propagación de
-las dependencias y solo generará los resultados involucrados por los cambios nuevos que introduces.
+Puedes usar `make` como una forma para coordinar la producción de un reporte. Sabe cómo atender la
+propagación de las dependencias y solo generará los resultados involucrados por los cambios nuevos
+que introduces.

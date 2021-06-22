@@ -12,7 +12,7 @@ obtener el resto de las gráficas; y finalmente, recordar cuáles tablas y cuál
 tan claras o incluso algunas de ellas obsoletas. Por un momento ponte en el papel de tus
 colaboradores.
 
-Supón que recibes un puño de programas que debes de correr en algún orden particular. Algunos de los
+Supón que recibes una gran cantidad de programas que debes de correr en algún orden particular. Algunos de los
 resultados parciales los usarás para generar nuevos resultados. Alguna instrucción es obsoleta, pues
 los archivos ya no se llaman como antes. Finalmente, ves los resultados y no son los esperados.
 ¿Cuál es la fuente de este error?
@@ -26,8 +26,8 @@ es correcto, pero olvidaste actualizar los resultados en el manuscrito.
 ### Problemas al articular el manuscrito
 Hasta un ejemplo tan sencillo como ajustar una recta tiene varias posibles fuentes de error. En
 general, el proceso para generar el manuscrito es claro: obtienes los datos, ajustas el modelo,
-generas la gráfica e integras el manuscrito. Cada uno de estos pasos pueden tener dependencias unos
-de otros. Por ejemplo, la gŕafica necesita de los datos y del ajuste del modelo. Podrías generar las
+generas la gráfica e integras el manuscrito. Estos pasos pueden tener dependencias unos
+Por ejemplo, la gŕafica necesita de los datos y del ajuste del modelo. Podrías generar las
 gráficas con los datos viejos y el modelo correcto o viceversa.
 
 Para reducir las posibles causas de error, las instrucciones para generar cada uno de los
@@ -39,9 +39,9 @@ fuente de error.
 proceso de la generación del manuscrito. Tu escribes los objetivos (datos, ajustes, gráficas o
 manuscrito) y sus dependencias. Make sabrá cuáles deben de ser generadas nuevamente y cuáles no.
 
-Si actualizas el código encargado de hacer el análisis, no es necesario descarga nuevamente los
+Si actualizas el código encargado de hacer el análisis, no es necesario descargar nuevamente los
 datos. Si los únicos cambios son en el manuscrito, no será necesario generar nuevamente la gráfica y
-volver ajustar el modelo.
+ajustar el modelo nuevamente.
 
 # Conclusión
 Puedes usar Make como una forma para coordinar la producción de un manuscrito. Make sabe cómo

@@ -8,7 +8,7 @@ Podrías escribir las instrucciones para volver a generar las componentes del ma
 archivo README: de dónde descargar los datos; cuáles códigos correr y en cuál orden; cómo copiar los
 resultados de los pasos anteriores en nuevos archivos; qué partes de código debes de comentar para
 obtener el resto de las gráficas; y finalmente, recordar cuáles tablas y cuáles gráficas son las
-únicas que aparecerán en el manuscrito. Después de unas semanas estás instrucciones podrían no ser
+únicas que aparecerán en el manuscrito. Después de unas semanas estas instrucciones podrían no ser
 tan claras o incluso algunas de ellas obsoletas. Por un momento ponte en el papel de tus
 colaboradores.
 

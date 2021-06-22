@@ -28,8 +28,9 @@ la gráfica e integras el reporte. Cada uno de estos pasos pueden tener dependen
 Por ejemplo, la gŕafica necesita de los datos y del ajuste del modelo. Podrías generar las gráficas
 con los datos viejos y el modelo correcto o viceversa.
 
-También las instrucciones para generar cada uno de los componentes del reporte deben ser sencillas.
-El orden para llevarlas a cabo no debe ser otra fuente de error.
+Para reducir las posibles causas de error, las instrucciones para generar cada uno de los
+componentes del reporte deben ser sencillas. El orden para llevarlas a cabo no debe ser otra fuente
+de error.
 
 ## La solución
 [`make`](https://www.gnu.org/software/make/) es una herramienta para controlar el proceso de la

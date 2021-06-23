@@ -4,18 +4,18 @@ los datos cambien, con una instrucción volverás a generar los resultados, los 
 e integrar todo en un manuscrito. Esto es fundamental para una investigación reproducible.
 
 ## Un ejemplo sencillo
-Podrías escribir las instrucciones para volver a generar las componentes del manuscrito en el
-archivo README: de dónde descargar los datos; cuáles códigos correr y en cuál orden; cómo copiar los
-resultados de los pasos anteriores en nuevos archivos; qué partes de código debes de comentar para
-obtener el resto de las gráficas; y finalmente, recordar cuáles tablas y cuáles gráficas son las
-únicas que aparecerán en el manuscrito. Después de unas semanas estas instrucciones podrían no ser
-tan claras o incluso algunas de ellas obsoletas. Por un momento ponte en el papel de tus
-colaboradores.
+Podrías escribir las instrucciones para generar las componentes del manuscrito en el archivo README:
+de dónde descargar los datos; cuáles códigos correr y en cuál orden; cómo copiar los resultados de
+los pasos anteriores en nuevos archivos; qué partes de código debes de comentar para obtener el
+resto de las gráficas; y finalmente, recordar cuáles tablas y cuáles gráficas son las que aparecerán
+en el manuscrito. Después de unas semanas estas instrucciones dejarán de ser claras e incluso
+algunas de ellas serán obsoletas.
 
-Supón que recibes una gran cantidad de programas que debes de correr en algún orden particular.
-Algunos de los resultados parciales los usarás para generar nuevos resultados. Alguna instrucción es
-obsoleta, pues los archivos ya no se llaman como antes. Finalmente, ves los resultados y no son los
-esperados. ¿Cuál es la fuente de este error?
+Por un momento ponte en el papel de tus colaboradores. Supón que recibes una gran cantidad de
+programas que debes de correr en algún orden particular. Algunos de los resultados parciales los
+usarás para generar nuevos resultados. Alguna instrucción es obsoleta, pues los archivos ya no se
+llaman como antes. Finalmente, ves los resultados y no son los esperados. ¿Cuál es la fuente de este
+error?
 
 ### Algunas posibles fuentes de error
 Los datos podrían tener las unidades incorrectas o magnitudes sin sentido. Tal vez, la elección del
@@ -26,8 +26,8 @@ es correcto, pero olvidaste actualizar los resultados en el manuscrito.
 ### Problemas al articular el manuscrito
 Hasta un ejemplo tan sencillo como ajustar una recta tiene varias posibles fuentes de error. En
 general, el proceso para generar el manuscrito es claro: obtienes los datos, ajustas el modelo,
-generas la gráfica e integras el manuscrito. Estos pasos pueden tener dependencias unos Por ejemplo,
-la gŕafica necesita de los datos y del ajuste del modelo. Podrías generar las gráficas con los datos
+generas la gráfica e integras el manuscrito. Estos pasos pueden tener dependencias. Por ejemplo, la
+gŕafica necesita de los datos y del ajuste del modelo. Podrías generar las gráficas con los datos
 viejos y el modelo correcto o viceversa.
 
 Para reducir las posibles causas de error, las instrucciones para generar cada uno de los

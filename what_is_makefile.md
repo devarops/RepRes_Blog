@@ -31,8 +31,12 @@ viceversa.
 ## Automatización
 
 ## Documentación
+Las instrucciones sobre cómo generar el manuscrito las guardamos en el archivo Makefile. Makefile
+sirve como documentación siempre actualizada sobre nuestro código fuente y sus dependencias.
 
 ## Pruebas
+Podemos usar Make como una prueba de humo cuando modificamos cualquier parte de nuestra
+investigación.
 
 # Conclusión
 Puedes usar Make como una forma para coordinar la producción de un manuscrito. Make sabe cómo

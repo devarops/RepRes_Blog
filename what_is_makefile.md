@@ -3,38 +3,7 @@ La producción de tus resultados debería convertirse en una tarea completamente
 los datos cambien, con una instrucción volverás a generar los resultados, los ajustes, las gráficas
 e integrar todo en un manuscrito. Esto es fundamental para una investigación reproducible.
 
-## Un ejemplo sencillo
-Para reproducir tu manuscrito, podrías escribir las instrucciones para generar las componentes del
-manuscrito en el archivo README: de dónde descargar los datos; cuáles códigos correr y en cuál
-orden; cómo copiar los resultados de los pasos anteriores en nuevos archivos; qué partes de código
-debes de comentar para obtener el resto de las gráficas; y finalmente, recordar cuáles tablas y
-cuáles gráficas son las que aparecerán en el manuscrito. Sin embargo, después de unas semanas estas
-instrucciones dejarán de ser claras e incluso algunas de ellas serán obsoletas.
-
-Por un momento ponte en el papel de tus colaboradores. Supón que recibes una gran cantidad de
-programas que debes de correr en algún orden particular. Algunos de los resultados parciales los
-usas para generar nuevos resultados. Alguna instrucción es obsoleta, pues los archivos ya no se
-llaman como antes. Finalmente, ves los resultados y no son los esperados. ¿Cuál es la fuente de este
-error?
-
-### Algunas posibles fuentes de error
-Los datos podrían tener las unidades incorrectas o magnitudes sin sentido. Tal vez, la elección del
-modelo ajustado no fue adecuada. Posiblemente, los puntos graficados no corresponden a los datos o
-los parámetros de la línea no corresponden a los encontrados en el ajuste. Tal vez todo lo anterior
-es correcto, pero olvidaste actualizar los resultados en el manuscrito.
-
-### Problemas al articular el manuscrito
-Hasta un ejemplo tan sencillo como ajustar una recta tiene varias posibles fuentes de error. En
-general, el proceso para generar el manuscrito es claro: obtienes los datos, ajustas el modelo,
-generas la gráfica e integras el manuscrito. Pero estos pasos son interdependientes. Por ejemplo, la
-gráfica necesita de los datos y del ajuste del modelo. Podrías generar las gráficas con los datos
-viejos y el modelo correcto o viceversa.
-
-Para reducir las posibles causas de error, las instrucciones para generar cada uno de los
-componentes del manuscrito deben ser sencillas. El orden para llevarlas a cabo no debe ser otra
-fuente de error.
-
-## La solución
+## Make
 [GNU Make](https://en.wikipedia.org/wiki/Make_(software)) es una herramienta para controlar el
 proceso de la generación del manuscrito. Tu escribes los objetivos (datos, ajustes, gráficas o
 manuscrito) y sus dependencias. Make sabrá cuáles deben de ser generadas nuevamente y cuáles no.
@@ -42,6 +11,28 @@ manuscrito) y sus dependencias. Make sabrá cuáles deben de ser generadas nueva
 Si actualizas el código encargado de hacer el análisis, no es necesario descargar nuevamente los
 datos. Si los únicos cambios son en el manuscrito, no será necesario nuevamente generar la gráfica
 ni ajustar el modelo.
+
+## Un ejemplo sencillo
+Para reproducir tu manuscrito, podrías escribir las instrucciones para generar las componentes del
+manuscrito en un archivo: de dónde descargar los datos; cuáles códigos correr y en cuál orden; cómo
+copiar los resultados de los pasos anteriores en nuevos archivos; qué partes de código debes de
+comentar para obtener el resto de las gráficas; y finalmente, recordar cuáles tablas y cuáles
+gráficas son las que aparecerán en el manuscrito. Sin embargo, después de unas semanas estas
+instrucciones dejarán de ser claras e incluso algunas de ellas serán obsoletas.
+
+## Manejo de dependencias
+Hasta un ejemplo tan sencillo como ajusitar una recta tiene varias posibles fuentes de error. En
+general, el proceso para generar el manuscrito es claro: obtienes los datos, ajustas el modelo,
+generas la gráfica e integras el manuscrito. Dado que estos pasos son interdependientes, es fácil
+cometer errores cuando actualizamos el manuscrito o cuando alguien más reproduce nuestro manuscrito.
+Por ejemplo, podrías generar las gráficas con datos viejos y el ajustar el modelo con datos nuevos o
+viceversa.
+
+## Automatización
+
+## Documentación
+
+## Pruebas
 
 # Conclusión
 Puedes usar Make como una forma para coordinar la producción de un manuscrito. Make sabe cómo

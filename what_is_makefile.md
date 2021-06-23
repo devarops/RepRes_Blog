@@ -1,4 +1,4 @@
-[GNU Make](https://en.wikipedia.org/wiki/Make_(software)) de la producción de tu manuscrito una
+[GNU Make](https://en.wikipedia.org/wiki/Make_(software)) hace de la producción de tu manuscrito una
 tarea completamente trivial. Cuando los datos cambian, con solo una instrucción vuelves a generar
 los resultados, los ajustes, las gráficas, las tablas e integras todo en tu manuscrito. Esto es
 fundamental para una investigación reproducible.
@@ -15,11 +15,11 @@ Dado que estos pasos son interdependientes, es fácil cometer errores cuando act
 manuscrito o cuando alguien más reproduce nuestro manuscrito. Por ejemplo, podrías generar las
 gráficas con datos viejos y el ajustar el modelo con datos nuevos o viceversa.
 
-Con Make no es necesario escribir las instrucciones para generar las componentes del manuscrito en
-un archivo: de dónde descargar los datos; cuáles códigos correr y en cuál orden; cómo copiar los
-resultados de los pasos anteriores en nuevos archivos; qué partes de código debes de comentar para
-obtener el resto de las gráficas; y finalmente, recordar cuáles tablas y cuáles gráficas son las que
-aparecerán en el manuscrito.
+Con Make puedes escribir las instrucciones para generar las componentes de tu manuscrito: de dónde
+descargar los datos; cuáles códigos correr y en cuál orden; cómo copiar los resultados de los pasos
+anteriores en nuevos archivos; qué partes de código debes de comentar para obtener el resto de las
+gráficas; y finalmente, recordar cuáles tablas y cuáles gráficas son las que aparecerán en el
+manuscrito.
 
 Puedes usar Make como una forma para coordinar la producción de tu manuscrito. Make sabe cómo
 manejar la propagación de las dependencias y solo generará los resultados involucrados por los

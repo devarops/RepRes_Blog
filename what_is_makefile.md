@@ -4,12 +4,12 @@ los datos cambien, con una instrucción volverás a generar los resultados, los 
 e integrar todo en un manuscrito. Esto es fundamental para una investigación reproducible.
 
 ## Un ejemplo sencillo
-Podrías escribir las instrucciones para generar las componentes del manuscrito en el archivo README:
-de dónde descargar los datos; cuáles códigos correr y en cuál orden; cómo copiar los resultados de
-los pasos anteriores en nuevos archivos; qué partes de código debes de comentar para obtener el
-resto de las gráficas; y finalmente, recordar cuáles tablas y cuáles gráficas son las que aparecerán
-en el manuscrito. Después de unas semanas estas instrucciones dejarán de ser claras e incluso
-algunas de ellas serán obsoletas.
+Para reproducir tu manuscrito, podrías escribir las instrucciones para generar las componentes del
+manuscrito en el archivo README: de dónde descargar los datos; cuáles códigos correr y en cuál
+orden; cómo copiar los resultados de los pasos anteriores en nuevos archivos; qué partes de código
+debes de comentar para obtener el resto de las gráficas; y finalmente, recordar cuáles tablas y
+cuáles gráficas son las que aparecerán en el manuscrito. Sin embargo, después de unas semanas estas
+instrucciones dejarán de ser claras e incluso algunas de ellas serán obsoletas.
 
 Por un momento ponte en el papel de tus colaboradores. Supón que recibes una gran cantidad de
 programas que debes de correr en algún orden particular. Algunos de los resultados parciales los
@@ -40,8 +40,8 @@ proceso de la generación del manuscrito. Tu escribes los objetivos (datos, ajus
 manuscrito) y sus dependencias. Make sabrá cuáles deben de ser generadas nuevamente y cuáles no.
 
 Si actualizas el código encargado de hacer el análisis, no es necesario descargar nuevamente los
-datos. Si los únicos cambios son en el manuscrito, no será necesario generar nuevamente la gráfica y
-ajustar el modelo nuevamente.
+datos. Si los únicos cambios son en el manuscrito, no será necesario nuevamente generar la gráfica
+ni ajustar el modelo.
 
 # Conclusión
 Puedes usar Make como una forma para coordinar la producción de un manuscrito. Make sabe cómo

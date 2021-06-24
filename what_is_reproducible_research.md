@@ -53,7 +53,7 @@ repository.
 
 Access to the source code, the raw data, and the computing environment is necessary but not enough
 to ensure reproducibility. To continually verify the reproducibility of a result, its production
-must be automated. This automation [verifies/ensures] that a result is reproducible each time
+must be automated. Automation ensures that a result is reproducible each time
 a change is made.
 
 ## Conclusion

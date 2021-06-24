@@ -13,11 +13,12 @@ describes los objetivos (datos, resultados y manuscrito) y sus dependencias. Mak
 la propagación de las dependencias y solo generará los resultados afectados por los cambios nuevos
 que introduces.
 
-Con Make escribes las instrucciones para generar las componentes de tu manuscrito: de dónde
-descargar los datos; cuáles archivos de código correr y en cuál orden; cómo importar los resultados
-de los pasos anteriores en nuevos archivos; cuáles archivos de código debes ejecutar para actualizar
-los resultados cuando actualizas los datos; y finalmente, cuáles tablas y cuáles gráficas son las
-que aparecerán en el manuscrito.
+Con Make escribes las instrucciones para descargar los datos necesarios para tu manuscrito. Con Make
+escribes las instrucciones para generar las dependencias de tu manuscrito: cuáles archivos de código
+correr y en cuál orden; cómo importar los resultados de los pasos anteriores en nuevos archivos;
+cuáles archivos de código debes ejecutar para actualizar los resultados cuando actualizas los datos.
+Con Make escribes las instrucciones para integrar todo las componentes en tu manuscrito: cuáles
+tablas, cuáles gráficas y cuáles resultados son las que aparecerán en el manuscrito.
 
 Además de ayudar en la automatización de la producción de tu manuscrito, Make también sirve de
 documentación sobre nuestro código fuente. Con Make, las instrucciones sobre cómo generar tu

@@ -8,7 +8,7 @@ incorporando los nuevos resultados. Cuando actualizas tu manuscrito manualmente,
 errores por las dependencias entre los elementos de tu investigación. Por ejemplo, podrías generar
 las gráficas con datos viejos y ajustar el modelo con datos nuevos o viceversa.
 
-Make es una herramienta que coordina el flujo de trabajo en la producción de tu manuscrito. Tu
+Make es una herramienta que coordina el flujo de trabajo en la producción de tu manuscrito. Tú
 describes los objetivos (datos, resultados y manuscrito) y sus dependencias. Make sabe cómo manejar
 la propagación de las dependencias y solo generará los resultados afectados por los cambios nuevos
 que introduces.

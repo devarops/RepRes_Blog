@@ -12,8 +12,8 @@ your research:
 3. the computing environment.
 
 After granting access to these three elements, you then automate the production of your results.
-After doing so, you can continually verify that others are able to reproduce your graphs, tables,
-and statistics.
+After doing so, you can continually verify that others are able to reproduce your manuscript and all
+its components.
 
 ## Source code
 

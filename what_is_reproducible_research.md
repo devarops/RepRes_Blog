@@ -17,7 +17,7 @@ others are able to reproduce your graphs, tables, and statistics.
 
 ## Source code
 
-The easiest way to share source code is through GitHub. It's similar to Dropbox.
+The easiest way to share source code is through GitHub. Once you upload your source code to GitHub, others can edit it online, suggest changes, make comments, or download the files.
 
 > GitHub is a code hosting platform for version control and collaboration. It lets you and others
 > work together on projects from anywhere<sup id = "1">[1](#github)</sup>.

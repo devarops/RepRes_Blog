@@ -1,6 +1,6 @@
-# What is Reproducible Research?
+# What is reproducible research?
 
-Reproducible Research is a set of practices that ensure others can reproduce the results of your
+Reproducible research is a set of practices that ensure others can reproduce the results of your
 research. The main advantage of adopting these practices is to facilitate collaboration with other
 researchers.
 
@@ -58,7 +58,7 @@ a change is made.
 
 ## Conclusion
 
-Reproducible research is more than just reproducing results. The true value of Reproducible Research
+Reproducible research is more than just reproducing results. The true value of reproducible research
 is collaboration. Adopting reproducible research practices will allow you and your collegues to
 advance quickly through every stage of the research process, from the raw data to the final draft. 
 

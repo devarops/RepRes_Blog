@@ -5,7 +5,7 @@ una investigación reproducible.
 
 Cada vez que los datos o el código fuente de tu investigación cambian debes actualizar tu manuscrito
 incorporando los nuevos resultados. Cuando actualizas tu manuscrito manualmente, es fácil cometer
-errores por la dependencias entre los elementos de tu investigación. Por ejemplo, podrías generar
+errores por las dependencias entre los elementos de tu investigación. Por ejemplo, podrías generar
 las gráficas con datos viejos y ajustar el modelo con datos nuevos o viceversa.
 
 Make es una herramienta que coordina el flujo de trabajo en la producción de tu manuscrito. Tu

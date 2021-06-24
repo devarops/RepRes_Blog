@@ -53,12 +53,12 @@ repository.
 
 Access to the source code, the raw data, and the computing environment is necessary but not enough
 to ensure reproducibility. To continually verify the reproducibility of a result, its production
-must be automated. Ideally, automatic verification ensures that a result is reproducible each time a
-change is made.
+must be automated. (Workflow) automation [verifies/ensures] that a result is reproducible each time
+a change is made.
 
 ## Conclusion
 
-Reproducible research is more than just reproducing results. The true value of Reproducible research
+Reproducible research is more than just reproducing results. The true value of Reproducible Research
 is collaboration. Adopting reproducible research practices will allow you and your collegues to
 advance quickly through every stage of the research process, from the raw data to the final draft. 
 

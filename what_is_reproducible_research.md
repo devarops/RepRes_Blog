@@ -35,7 +35,7 @@ All of the configuration files are also part of the source code.
 ## Raw data
 
 Raw data are shared along with the source code. Plain text files are generally best for
-raw data, although tabular data may be saved in CSV format and metadata in JSON<sup id = "2">[2](#datapackage)</sup>.
+raw data. Tabular data should be saved in CSV format and metadata in JSON<sup id = "2">[2](#datapackage)</sup>.
 
 When it is not possible to include the data in the source code repository, the
 raw data are shared using a specialized data repository<sup id = "3">[3](#data-repos)</sup>. In these cases,

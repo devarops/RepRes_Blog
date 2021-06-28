@@ -1,7 +1,7 @@
 [GNU Make](https://en.wikipedia.org/wiki/Make_(software)) turns the production of your manuscript
 into an utterly trivial task. With Make, you use a single instruction to generate the statistical
 analysis, graphs, and tables and integrate everything into your manuscript. This automation is
-essential for reproducible research.
+essential for a reproducible research.
 
 Every time the data or the source code of your research changes, you must update your manuscript
 incorporating the new results. It is easy to make mistakes when you update your manuscript manually

@@ -1,6 +1,6 @@
 [GNU Make](https://en.wikipedia.org/wiki/Make_(software)) turns the production of your manuscript
 into a completely trivial task. With Make, you use a single instruction to generate the statistical
-analysis, graphs, and tables and integrate everything into your manuscript. This is essential for a
+analysis, graphs, and tables and integrate everything into your manuscript. This is essential for
 reproducible research.
 
 Every time the data or the source code of your research changes, you must update your manuscript
@@ -12,12 +12,12 @@ Make manages the workflow of the production of your manuscript. You describe the
 research (data, results, and manuscript) and their dependencies. Make knows how to handle the
 propagation of the dependencies and will only generate the results affected by your new changes.
 
-To use Make, you first write the instructions to obtain the componets that your manuscript depends
+To use Make, you first write the instructions to obtain the components that your manuscript depends
 on. Then you use Make to download the data and perform the analyzes. When your data changes or you
 modify your analyses, Make will determine which scripts to run and in what order to update the
-results. Finally, Make will import into your manuscript the updated tables, graphs and results.
+results. Finally, Make will import into your manuscript the updated tables, graphs, and results.
 
-In addition to automate the production of your manuscript, Make also serves as documentation of your
+In addition to automating the production of your manuscript, Make also serves as documentation of your
 source code. With Make, the instructions on how to generate your manuscript will always be clear and
 up to date. Make is a fundamental tool for Reproducible research.
 

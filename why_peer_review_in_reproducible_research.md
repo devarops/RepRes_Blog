@@ -11,9 +11,9 @@ anterior sucede completamente después de que el diseño metodológico, la recol
 datos, los análisis estadísticos y la integración del manuscrito fueron realizados. Así el revisor
 tiene en sus manos solamente este último producto, el manuscrito.
 
-La desventaja de este proceso es que los revisores no tienen los elementos para reproducir tu
-trabajo, y esto evita que puedan realizar una revisión más profunda, quizá en el comportamiento de
-los datos o en la forma como los análisis fueron realizados, solo por mencionar un par de ejemplos.
+La desventaja de la revisión por pares tradicional es que los revisores no tienen los elementos para reproducir tu
+trabajo. Una revisión más profunda requiere de una investigación reproducible. Por ejemplos, tus pares podrían 
+revisar el comportamiento de los datos o la forma como realizaste los análisis. 
 
 ## Peer-review in the RepRes
 

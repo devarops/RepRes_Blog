@@ -17,10 +17,9 @@ revisar el comportamiento de los datos o la forma como realizaste los análisis.
 
 ## Peer-review in the RepRes
 
-En la investigación reproducible se propone que proporciones a los revisores todos los elementos con
-que tu trabajo académico fue realizado<sup id = "1">[1](#rep-res)</sup>: los datos utilizados, el
+Una investigación reproducible proporciona todos los elementos con los que realizaste tu trabajo académico. Así, el revisor par puede acceder a <sup id = "1">[1](#rep-res)</sup>: los datos utilizados, el
 código fuente con que se realizaron los análisis, las versiones de la paquetería, los parámetros
-utilizados y los resultados intermedios; todos estos elementos deberían ser publicados y deberían
+utilizados y los resultados intermedios. Todos estos elementos deberían ser publicados y deberían
 ser de fácil acceso. De esta manera, los revisores pueden tener un panorama completo de tu trabajo y
 la manera como fue hecho; pueden hacer sugerencias sobre el tratamiento de los datos o sobre mejoras
 al código fuente que podría mejora los análisis; y, sobre todo, permite que se incremente la calidad

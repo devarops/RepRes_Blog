@@ -22,7 +22,7 @@ código fuente con que se realizaron los análisis, las versiones de la paqueter
 utilizados y los resultados intermedios. Todos estos elementos deberían ser publicados y deberían
 ser de fácil acceso. De esta manera, los revisores pueden tener un panorama completo de tu trabajo y
 la manera como fue hecho. Los revisores pares pueden hacer sugerencias sobre el tratamiento de los datos o sobre modificaciones
-al código fuente que podría mejora los análisis; y, sobre todo, permite que se incremente la calidad
+al código fuente que podrían mejora los análisis. Una investigación reproducible permite que se incremente la calidad
 y la rapidez en el proceso de revisión de tu trabajo.
 
 ## Conclusions

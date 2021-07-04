@@ -8,7 +8,7 @@ estándares de calidad, mejoran el proceso metodológico y proveen de credibilid
 El proceso de revisión por pares comienza cuando sometes un trabajo académico al escrutinio de otros miembros de tu mismo campo de estudio. Estos pares revisan la validez
 de tu trabajo académico y deciden si el manuscrito debe ser publicado o no. Tradicionalmente, el proceso 
 anterior sucede completamente después de que el diseño metodológico, la recolección de los
-datos, los análisis estadísticos y la integración del manuscrito fueron realizados, y el revisor
+datos, los análisis estadísticos y la integración del manuscrito fueron realizados. Así el revisor
 tiene en sus manos solamente este último producto, el manuscrito.
 
 La desventaja de este proceso es que los revisores no tienen los elementos para reproducir tu

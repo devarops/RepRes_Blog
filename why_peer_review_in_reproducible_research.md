@@ -2,7 +2,7 @@
 
 ## Academic peer-review
 
-La revisión por pares es un proceso importante en la investigación académica porque permite mantener
+La revisión por pares es un proceso importante en la investigación reproducible. Las revisiones por pares permiten mantener
 estándares de calidad, mejora el proceso metodológico y provee de credibilidad en la investigación.
 
 El proceso de revisión por pares consiste en que tu manuscrito, producto de un trabajo académico, es

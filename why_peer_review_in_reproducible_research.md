@@ -5,8 +5,7 @@
 La revisión por pares es un proceso importante en la investigación reproducible. Las revisiones por pares permiten mantener
 estándares de calidad, mejoran el proceso metodológico y proveen de credibilidad en la investigación.
 
-El proceso de revisión por pares consiste en que tu manuscrito, producto de un trabajo académico, es
-puesto a escrutinio de otros expertos del mismo campo de estudio; estos expertos revisan la validez
+El proceso de revisión por pares comienza cuando sometes un trabajo académico al escrutinio de otros miembros de tu mismo campo de estudio. Estos pares revisan la validez
 de tu trabajo académico y deciden si el manuscrito debe ser publicado o no. El proceso anterior
 regularmente sucede completamente después de que el diseño metodológico, la recolección de los
 datos, los análisis estadísticos y la integración del manuscrito fueron realizados, y el revisor

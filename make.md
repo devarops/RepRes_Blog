@@ -7,7 +7,7 @@ Every time the data or the source code of your research changes, you must update
 to incorporate the new results. It is easy to make mistakes when you manually update your manuscript 
 due to dependencies between the components of your research (e.g., data, results, and manuscript). For example, you could generate graphs with old data and fit the model with new data or vice versa.
 
-Make manages the workflow of the production of your manuscript. You describe the components of your
+Make manages your your manuscript production workflow. You describe the components of your
 research and their dependencies. Make knows how to handle the
 propagation of the dependencies and will only generate the results affected by your new changes.
 

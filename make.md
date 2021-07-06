@@ -5,11 +5,10 @@ essential for a reproducible research.
 
 Every time the data or the source code of your research changes, you must update your manuscript
 to incorporate the new results. It is easy to make mistakes when you manually update your manuscript 
-due to dependencies between the components of your research. For example, you could generate
-graphs with old data and fit the model with new data or vice versa.
+due to dependencies between the components of your research (e.g., data, results, and manuscript). For example, you could generate graphs with old data and fit the model with new data or vice versa.
 
 Make manages the workflow of the production of your manuscript. You describe the components of your
-research (data, results, and manuscript) and their dependencies. Make knows how to handle the
+research and their dependencies. Make knows how to handle the
 propagation of the dependencies and will only generate the results affected by your new changes.
 
 To use Make, you first write the instructions to obtain the components on which your manuscript

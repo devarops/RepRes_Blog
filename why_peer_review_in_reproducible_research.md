@@ -2,28 +2,33 @@
 
 ## Academic peer-review
 
-La revisión por pares es un proceso importante en la investigación reproducible. Las revisiones por pares permiten mantener
-estándares de calidad, mejoran el proceso metodológico y proveen de credibilidad en la investigación.
+La revisión por pares es un proceso importante en la investigación reproducible. Las revisiones por
+pares permiten mantener estándares de calidad, mejoran el proceso metodológico y proveen de
+credibilidad en la investigación.
 
-El proceso de revisión por pares comienza cuando sometes un trabajo académico al escrutinio de otros miembros de tu mismo campo de estudio. Estos pares revisan la validez
-de tu trabajo académico y deciden si el manuscrito debe ser publicado o no. Tradicionalmente, el proceso 
-anterior sucede completamente después de que el diseño metodológico, la recolección de los
-datos, los análisis estadísticos y la integración del manuscrito fueron realizados. Así el revisor
-tiene en sus manos solamente este último producto, el manuscrito.
+El proceso de revisión por pares comienza cuando sometes un trabajo académico al escrutinio de otros
+miembros de tu mismo campo de estudio. Estos pares revisan la validez de tu trabajo académico y
+deciden si el manuscrito debe ser publicado o no. Tradicionalmente, el proceso anterior sucede
+completamente después de que el diseño metodológico, la recolección de los datos, los análisis
+estadísticos y la integración del manuscrito fueron realizados. Así el revisor tiene en sus manos
+solamente este último producto, el manuscrito.
 
-La desventaja de la revisión por pares tradicional es que los revisores no tienen los elementos para reproducir tu
-trabajo. Una revisión más profunda requiere de una investigación reproducible. Por ejemplos, tus pares podrían 
-revisar el comportamiento de los datos o la forma como realizaste los análisis. 
+La desventaja de la revisión por pares tradicional es que los revisores no tienen los elementos para
+reproducir tu trabajo. Una revisión más profunda requiere de una investigación reproducible. Por
+ejemplos, tus pares podrían revisar el comportamiento de los datos o la forma como realizaste los
+análisis. 
 
 ## Peer-review in the RepRes
 
-Una investigación reproducible proporciona todos los elementos con los que realizaste tu trabajo académico. Así, el revisor par puede acceder a <sup id = "1">[1](#rep-res)</sup>: los datos utilizados, el
-código fuente con que se realizaron los análisis, las versiones de la paquetería, los parámetros
-utilizados y los resultados intermedios. Todos estos elementos deberían ser publicados y deberían
-ser de fácil acceso. De esta manera, los revisores pueden tener un panorama completo de tu trabajo y
-la manera como fue hecho. Los revisores pares pueden hacer sugerencias sobre el tratamiento de los datos o sobre modificaciones
-al código fuente que podrían mejora los análisis. Una investigación reproducible permite que se incremente la calidad
-y la rapidez en el proceso de revisión de tu trabajo.
+Una investigación reproducible proporciona todos los elementos con los que realizaste tu trabajo
+académico. Así, el revisor par puede acceder a <sup id = "1">[1](#rep-res)</sup>: los datos
+utilizados, el código fuente con que se realizaron los análisis, las versiones de la paquetería, los
+parámetros utilizados y los resultados intermedios. Todos estos elementos deberían ser publicados y
+deberían ser de fácil acceso. De esta manera, los revisores pueden tener un panorama completo de tu
+trabajo y la manera como fue hecho. Los revisores pares pueden hacer sugerencias sobre el
+tratamiento de los datos o sobre modificaciones al código fuente que podrían mejora los análisis.
+Una investigación reproducible permite que se incremente la calidad y la rapidez en el proceso de
+revisión de tu trabajo.
 
 ## Conclusions
 

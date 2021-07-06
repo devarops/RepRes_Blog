@@ -15,8 +15,8 @@ solamente este último producto, el manuscrito.
 
 La desventaja de la revisión por pares tradicional es que los revisores no tienen los elementos para
 reproducir tu trabajo. Una revisión más profunda requiere de una investigación reproducible. Por
-ejemplos, tus pares podrían revisar el comportamiento de los datos o la forma como realizaste los
-análisis. 
+ejemplo, tus pares podrían revisar el comportamiento de los datos o la forma como realizaste los
+análisis.
 
 ## Peer-review in the RepRes
 

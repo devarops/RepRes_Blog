@@ -4,8 +4,8 @@ analysis, graphs, and tables and integrate everything into your manuscript. This
 essential for a reproducible research.
 
 Every time the data or the source code of your research changes, you must update your manuscript
-incorporating the new results. It is easy to make mistakes when you update your manuscript manually
-due to the dependencies between the components of your research. For example, you could generate
+to incorporate the new results. It is easy to make mistakes when you manually update your manuscript 
+due to dependencies between the components of your research. For example, you could generate
 graphs with old data and fit the model with new data or vice versa.
 
 Make manages the workflow of the production of your manuscript. You describe the components of your

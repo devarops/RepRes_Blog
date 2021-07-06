@@ -35,8 +35,8 @@ revisión de tu trabajo.
 La revisión por pares tradicional toma lugar después de que todo tu proceso de investigación fue
 hecho y solo se enfoca en el manuscrito final. La revisión por pares en la investigación
 reproducible permite la revisión de todo el proceso de tu investigación, desde los datos hasta el
-manuscrito final. Esto es una fuerte señal de calidad, integridad y transparencia de tu trabajo.
-La revisión por pares en la investigación reproducible incrementa la posibilidad de que tu trabajo sea publicado, que sea considerado para
-futuras investigaciones y sea citado después de ser publicado.
+manuscrito final. Esto es una fuerte señal de calidad, integridad y transparencia de tu trabajo. La
+revisión por pares en la investigación reproducible incrementa la posibilidad de que tu trabajo sea
+publicado, que sea considerado para futuras investigaciones y sea citado después de ser publicado.
 
 - <a name="rep-res">1️⃣</a> https://github.com/mactavishediting/RepRes_Blog/blob/develop/what_is_reproducible_research.md [⤴️](#1)

@@ -11,13 +11,13 @@ Make manages your manuscript production workflow. You describe the components of
 research and their dependencies. Make knows how to handle the
 propagation of the dependencies and will only generate the results affected by your new changes.
 
-To use Make, you first write the instructions to obtain the components on which your manuscript
-depends. Then you use Make to download the data and perform the analyses. When your data changes or
-you modify your analyses, Make will determine which scripts to run and in what order to update the
-results. Finally, Make will import into your manuscript the updated tables, graphs, and results.
+To use Make, you first write the instructions to obtain the components that your manuscript
+requires. Then, you use Make to download the data and perform the analyses. When your data changes or
+you modify your analyses, Make will determine which scripts to run and in what order to update your
+results. Finally, Make will import the updated tables, graphs, and results into your manuscript.
 
-Make is a fundamental tool for Reproducible research. In addition to automating your manuscript's
-production, Make also serves as documentation of your source code. With Make, the instructions on
+Make is a fundamental tool for reproducible research. In addition to automating your manuscript's
+production, Make also serves as documentation for your source code. With Make, the instructions for
 generating your manuscript will always be clear and up to date.
 
 ---

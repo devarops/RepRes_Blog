@@ -23,12 +23,12 @@ análisis.
 Una investigación reproducible proporciona todos los elementos con los que realizaste tu trabajo
 académico. Así, el revisor par puede acceder a <sup id = "1">[1](#rep-res)</sup>: los datos
 utilizados, el código fuente con que se realizaron los análisis, las versiones de la paquetería, los
-parámetros utilizados, los resultados intermedios y los finales. Todos estos elementos deberían ser publicados y
-deberían ser de fácil acceso. De esta manera, los revisores pueden tener un panorama completo de tu
-trabajo y la manera como fue hecho. Los revisores pares pueden hacer sugerencias sobre el
-tratamiento de los datos o sobre modificaciones al código fuente que podrían mejorar los análisis.
-Una investigación reproducible permite que se incremente la calidad y la rapidez en el proceso de
-revisión de tu trabajo.
+parámetros utilizados, los resultados intermedios y los finales. Todos estos elementos deberían ser
+publicados y deberían ser de fácil acceso. De esta manera, los revisores pueden tener un panorama
+completo de tu trabajo y la manera como fue hecho. Los revisores pares pueden hacer sugerencias
+sobre el tratamiento de los datos o sobre modificaciones al código fuente que podrían mejorar los
+análisis. Una investigación reproducible permite que se incremente la calidad y la rapidez en el
+proceso de revisión de tu trabajo.
 
 ## Conclusions
 

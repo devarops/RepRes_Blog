@@ -1,5 +1,6 @@
-Las revisiones por pares permiten mantener estándares de calidad, mejoran el proceso metodológico y
-proveen de credibilidad en la investigación.
+Para publicar un artículo en una revista científica, el artículo tiene que pasar por un proceso de
+revisión por pares. Las revisiones por pares permiten mantener estándares de calidad, mejoran el
+proceso metodológico y proveen de credibilidad en la investigación.
 
 El proceso de revisión por pares comienza cuando sometes un trabajo académico al escrutinio de otros
 miembros de tu mismo campo de estudio. Estos pares revisan la validez de tu trabajo académico y

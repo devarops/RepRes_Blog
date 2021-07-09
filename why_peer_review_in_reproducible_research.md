@@ -32,6 +32,11 @@ integridad y transparencia de tu trabajo. La revisión por pares en la investiga
 incrementa la posibilidad de que tu trabajo sea publicado, que sea considerado para futuras
 investigaciones y sea citado después de ser publicado.
 
-- <a name="peer-review-benefits">:one:</a> https://archive.senseaboutscience.org/data/files/resources/99/Peer-review_The-nuts-and-bolts.pdf[:arrow_heading_up:](#1)
-- <a name="rep-res">:two:</a> https://github.com/mactavishediting/RepRes_Blog/blob/develop/what_is_reproducible_research.md[:arrow_heading_up:](#2)
-- <a name="guide-repres">:three:</a> https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.1801[:arrow_heading_up:](#3)
+- <a name="peer-review-benefits">:one:</a>
+  https://archive.senseaboutscience.org/data/files/resources/99/Peer-review_The-nuts-and-bolts.pdf
+  [:arrow_heading_up:](#1)
+- <a name="rep-res">:two:</a>
+  https://github.com/mactavishediting/RepRes_Blog/blob/develop/what_is_reproducible_research.md
+  [:arrow_heading_up:](#2)
+- <a name="guide-repres">:three:</a>
+  https://esajournals.onlinelibrary.wiley.com/doi/full/10.1002/bes2.1801 [:arrow_heading_up:](#3)

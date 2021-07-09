@@ -8,12 +8,8 @@ miembros de tu mismo campo de estudio. Estos pares revisan la validez de tu trab
 deciden si el manuscrito puede ser publicado o no. El proceso anterior sucede después de que el
 diseño metodológico, la recolección de los datos, los análisis estadísticos y la integración del
 manuscrito fueron realizados. Así el revisor tiene en sus manos solamente este último producto, el
-manuscrito.
-
-La revisión por pares en una investigación no reproducible (cuando los revisores no tienen los
-elementos para reproducir tu trabajo) se refiere a la revisión del manuscrito únicamente. Sin
-embargo, una investigación reproducible permite revisar la investigación completa. Por ejemplo, tus
-pares podrían revisar el comportamiento de los datos o la forma como realizaste los análisis.
+manuscrito. La revisión por pares en una investigación no reproducible (cuando los revisores no
+tienen los elementos para reproducir tu trabajo) se refiere a la revisión del manuscrito únicamente.
 
 Una investigación reproducible, por otro lado, proporciona todos los elementos con los que
 realizaste tu trabajo académico<sup id = "2">[2](#rep-res)</sup>. Así, el revisor puede acceder a:

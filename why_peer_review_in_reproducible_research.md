@@ -1,6 +1,7 @@
 Para publicar un artículo en una revista científica, el artículo tiene que pasar por un proceso de
 revisión por pares. Las revisiones por pares permiten mantener estándares de calidad, mejoran el
-proceso metodológico y proveen de credibilidad en la investigación<sup id = "1">[1](#peer-review-benefits)</sup>.
+proceso metodológico y proveen de credibilidad en la investigación<sup id =
+"1">[1](#peer-review-benefits)</sup>.
 
 El proceso de revisión por pares comienza cuando sometes un trabajo académico al escrutinio de otros
 miembros de tu mismo campo de estudio. Estos pares revisan la validez de tu trabajo académico y
@@ -14,15 +15,16 @@ elementos para reproducir tu trabajo) se refiere a la revisión del manuscrito �
 embargo, una investigación reproducible permite revisar la investigación completa. Por ejemplo, tus
 pares podrían revisar el comportamiento de los datos o la forma como realizaste los análisis.
 
-Una investigación reproducible, por otro lado, proporciona todos los elementos con los que realizaste tu trabajo
-académico<sup id = "2">[2](#rep-res)</sup>. Así, el revisor puede acceder a: los datos utilizados,
-el código fuente con que se realizaron los análisis, las versiones de la paquetería, los parámetros
-utilizados, los resultados intermedios y los finales. Todos estos elementos deberían ser publicados
-y deberían ser de fácil acceso. De esta manera, los revisores pueden tener un panorama completo de
-tu trabajo y la manera como fue hecho. Los revisores pueden hacer sugerencias sobre el tratamiento
-de los datos o sobre modificaciones al código fuente, sugerencias que podrían mejorar los análisis. Una
-investigación reproducible permite que se incremente la calidad y la rapidez en el proceso de
-revisión de tu trabajo<sup id = "3">[3](#guide-repres)</sup>.
+Una investigación reproducible, por otro lado, proporciona todos los elementos con los que
+realizaste tu trabajo académico<sup id = "2">[2](#rep-res)</sup>. Así, el revisor puede acceder a:
+los datos utilizados, el código fuente con que se realizaron los análisis, las versiones de la
+paquetería, los parámetros utilizados, los resultados intermedios y los finales. Todos estos
+elementos deberían ser publicados y deberían ser de fácil acceso. De esta manera, los revisores
+pueden tener un panorama completo de tu trabajo y la manera como fue hecho. Los revisores pueden
+hacer sugerencias sobre el tratamiento de los datos o sobre modificaciones al código fuente,
+sugerencias que podrían mejorar los análisis. Una investigación reproducible permite que se
+incremente la calidad y la rapidez en el proceso de revisión de tu trabajo<sup id =
+"3">[3](#guide-repres)</sup>.
 
 La revisión por pares en la investigación reproducible permite verificar todo el proceso de tu
 investigación, desde los datos hasta el manuscrito final. Esto es una fuerte señal de calidad,

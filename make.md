@@ -4,7 +4,7 @@ research and their dependencies, Make uses a single instruction to generate the 
 analyses, graphs, and tables. Make then integrates these into your manuscript. This automation is
 essential for reproducible research and effective collaboration.
 
-Each time that the data or source code changes, the manuscript must be updated to incorporate the new results. 
+Each time that the data or source code changes, you manuscript must be updated to incorporate the new results. 
 As you and your co-authors continue to update the data or source code, Make will keep the manuscript up to date 
 by only generating the results affected by your changes. This automation removes a potential source of error that comes from having to manually update the results. For example, you might generate graphs with old data and fit the model with new data or vice versa.
 

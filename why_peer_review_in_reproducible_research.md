@@ -1,5 +1,6 @@
 Para publicar un artículo en una revista científica, el artículo tiene que pasar por un proceso de
-revisión por pares. Las revisiones por pares permiten mantener estándares de calidad, mejoran la calidad del manuscrito antes de ser publicado y proveen de credibilidad en la investigación<sup id =
+revisión por pares. Las revisiones por pares permiten mantener estándares de calidad, mejoran la
+calidad del manuscrito antes de ser publicado y proveen de credibilidad en la investigación<sup id =
 "1">[1](#peer-review-benefits)</sup>.
 
 El proceso de revisión por pares comienza cuando sometes un trabajo académico al escrutinio de otros

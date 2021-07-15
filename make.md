@@ -1,7 +1,9 @@
 [GNU Make](https://en.wikipedia.org/wiki/Make_(software)) turns the production of your manuscript
 into a trivial task by managing your workflow. After you have described the components of your
 research and their dependencies, Make uses a single instruction to generate the necessary
-statistical analyses, graphs, and tables. Make then integrates these into your manuscript. This
+statistical analyses, graphs, and tables. Make then integrates these into your manuscript if you are
+using a [markup language](https://en.wikipedia.org/wiki/Markup_language) like
+[LaTeX](https://en.wikipedia.org/wiki/LaTeX) or [R Markdown](https://rmarkdown.rstudio.com/). This
 automation is essential for reproducible research and effective collaboration.
 
 Each time that the data or source code changes, your manuscript must be updated to incorporate the

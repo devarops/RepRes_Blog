@@ -1,25 +1,24 @@
 [GNU Make](https://en.wikipedia.org/wiki/Make_(software)) turns the production of your manuscript
-into an utterly trivial task. With Make, you use a single instruction to generate the statistical
-analysis, graphs, and tables and integrate everything into your manuscript. This automation is
-essential for a reproducible research.
+into a trivial task by managing your workflow. After you have described the components of your
+research and their dependencies, Make uses a single instruction to generate the necessary
+statistical analyses, graphs, and tables. Make then integrates these into your manuscript if you are
+using a [markup language](https://en.wikipedia.org/wiki/Markup_language) like
+[LaTeX](https://en.wikipedia.org/wiki/LaTeX) or [R Markdown](https://rmarkdown.rstudio.com/). This
+automation is essential for reproducible research and effective collaboration.
 
-Every time the data or the source code of your research changes, you must update your manuscript
-incorporating the new results. It is easy to make mistakes when you update your manuscript manually
-due to the dependencies between the components of your research. For example, you could generate
-graphs with old data and fit the model with new data or vice versa.
+Each time that the data or source code changes, your manuscript must be updated to incorporate the
+new results. As you and your co-authors continue to update the data or source code, Make will keep
+the manuscript up to date by only generating the results affected by your changes. This automation
+removes a potential source of error that comes from having to manually update the results. For
+example, you might generate graphs with old data and fit the model with new data or vice versa.
 
-Make manages the workflow of the production of your manuscript. You describe the components of your
-research (data, results, and manuscript) and their dependencies. Make knows how to handle the
-propagation of the dependencies and will only generate the results affected by your new changes.
+To use Make, you first write the instructions that your workflow requires. When your data changes or
+you modify your analyses, Make will determine which scripts to run and in what order to update your
+results. Make will then import the updated tables, graphs, and results into your manuscript.
 
-To use Make, you first write the instructions to obtain the components on which your manuscript
-depends. Then you use Make to download the data and perform the analyses. When your data changes or
-you modify your analyses, Make will determine which scripts to run and in what order to update the
-results. Finally, Make will import into your manuscript the updated tables, graphs, and results.
-
-Make is a fundamental tool for Reproducible research. In addition to automating your manuscript's
-production, Make also serves as documentation of your source code. With Make, the instructions on
-generating your manuscript will always be clear and up to date.
+In addition to automating your manuscript's production, Make also serves as documentation for your
+source code. With Make, the instructions for generating your manuscript will always be clear and up
+to date.
 
 ---
 

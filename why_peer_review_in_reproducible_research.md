@@ -11,12 +11,12 @@ non-reproducible research (when the reviewers do not have the elements to reprod
 refers to only the inspection of the manuscript.
 
 On the other hand, a reproducible investigation provides all the elements with which you did your
-academic work. Thus, the reviewer can access the data used, the source code with which the analyzes
+academic work. Thus, the reviewer can access the data used, the source code with which the analyses
 were carried out, the package versions, the parameters used, the intermediate and final results. All
 of these items should be published and should be easily accessible. In this way, reviewers can have
 a complete picture of your work and how you did it. Reviewers can suggest data handling or
 modifications to the source code, suggestions that could improve the analyses. A reproducible
-investigation allows the quality and speed of the review process of your work to be increased.
+investigation allows that the quality and speed of the review process of your work to be increased.
 
 Peer review in reproducible research allows others to verify the entire process of your research,
 from the data to the final manuscript. The thorough verification of your research signals quality,

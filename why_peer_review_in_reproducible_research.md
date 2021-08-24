@@ -1,3 +1,31 @@
+To publish a paper in a scientific journal, the paper has to go through a peer-review process. Peer
+review allows to maintain quality standards, improve the quality of the manuscript before being
+published and provide credibility in the investigation.
+
+The peer-review process begins when you submit an academic work to the scrutiny of other members of
+the same field of study. These peers review the validity of your academic work and decide whether
+the manuscript can be published or not. The above process happens after the methodological design,
+data collection, statistical analysis and integration of the manuscript have been carried out. Thus
+the reviewer has in his hands only this final product, the manuscript. Peer review in
+non-reproducible research (when the reviewers do not have the elements to reproduce your work)
+refers to only the inspection of the manuscript.
+
+On the other hand, a reproducible research provides all the elements with which you did your
+academic work. Thus, the reviewer can access the data used, the source code with which the analyses
+were carried out, the package versions, the parameters used, the intermediate and final results. All
+of these items should be published and should be easily accessible. In this way, reviewers can have
+a complete picture of your work and how you did it. Reviewers can suggest data handling or
+modifications to the source code, suggestions that could improve the analyses. A reproducible
+research allows the quality and speed of the review process of your work to be increased.
+
+Peer review in reproducible research allows others to verify the entire process of your research,
+from the data to the final manuscript. The thorough verification of your research signals quality,
+integrity and transparency in your work. In addition, peer review of a reproducible research increases
+the chance that your work will be published, that it will be used by future research, and that it
+will be cited after it is published.
+
+---
+
 Para publicar un artículo en una revista científica, el artículo tiene que pasar por un proceso de
 revisión por pares. Las revisiones por pares permiten mantener estándares de calidad, mejoran la
 calidad del manuscrito antes de ser publicado y proveen de credibilidad en la investigación<sup id =
